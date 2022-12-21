@@ -1,0 +1,22 @@
+Cette application ajoute les informations des autobus de Sanké à Perpignan à MonTransit.
+
+Cette application contient les horaires et les dernières nouvelles de www.sankeo.com et @SANKEOtrafic sur Twitter.
+
+Sanké dessert la ville de Perpignan dans les Pyrénées-Orientales, France.
+
+Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
+
+Cette application a seulement une icône temporaire : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play https://goo.gl/pCk5mV
+
+Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
+
+Ces horaires sont générées à partir du fichier GTFS fourni par Sankéo.
+https://transport.data.gouv.fr/datasets/gtfs-sankeo
+
+Cette application est gratuite et open-source :
+https://github.com/mtransitapps/fr-perpignan-sankeo-bus-android
+
+Cette application n'est pas associée à Sankéo, Perpignan Méditerranée Métropole & Keolis Perpignan Méditérranée.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles de www.sankeo.com et Twitter.
