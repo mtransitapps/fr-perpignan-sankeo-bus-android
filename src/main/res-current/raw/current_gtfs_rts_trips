@@ -1,63 +1,63 @@
-101,0,'Mas St-Pierre',1
-100,0,'St-Féliu D''Avall',1
-201,0,'CTPM',2
-200,0,'Parc Des Sports',2
-301,0,'Canet Sud',3
-300,0,'Gare TGV',3
-401,0,'Cabestany',4
-400,0,'St-Charles',4
-500,0,'Gare TGV',5
-501,0,'Ste-Marie Plage',5
-600,0,'Abbé Pierre',6
-601,0,'Templiers',6
-701,0,'Chefdebien',7
-700,0,'Saleilles',7
-800,0,'Baillat',8
-801,0,'Catalogne (Jeantet Violet)',8
-900,0,'Gare Routière',9
-901,0,'Pas De L''Échelle',9
-1001,0,'Barcarès',10
-1000,0,'Gare TGV',10
-1100,0,'Gare TGV',11
-1101,0,'St-Laurent De La Salanque',11
-1301,0,'Vernet Salanque',13
-1300,0,'Villeneuve De La Raho',13
-1401,0,'Baixas / Pézilla-La-Riv',14
-1400,0,'Catalogne (Brasserie) 1',14
-1501,0,'Castillet 1',15
-1500,0,'Pollestres',15
-1601,0,'Grand Circuit Du Roussillon',16
-1600,0,'Languedoc',16
-1701,0,'Cassagnes',17
-1700,0,'Estagel',17
-1800,0,'Calce Village',18
-1801,0,'Stade',18
-1900,0,'Gare Routière',19
-1901,0,'Opoul',19
-2001,0,'Gare Routière',20
-2000,0,'Mimosas',20
-2101,0,'Espace Entreprises',21
-2100,0,'Gare TGV',21
-2200,0,'Gare Routière / Lurçat',22
-2201,0,'Ston',22
-2401,0,'Massilia',24
-2400,0,'Parc Des Sports',24
-2500,0,'Bois Des Pins',25
-2501,0,'Catalogne (Jeantet Violet)',25
-2801,0,'Languedoc',28
-2800,0,'Tecnosud',28
-2900,0,'Cité St-Assiscle',29
-2901,0,'Massilia',29
-3000,0,'Flandres Dunkerque',30
-3001,0,'Lycée Maillol',30
-3701,0,'Canet Sud',37
-3700,0,'Vert Vallon',37
-16800,0,'Jean Moulin',168
-16801,0,'Parking Universitaire',168
-17001,0,'Castillet 1',170
-17000,0,'Cité Universitaire',170
-18700,0,'Quai Nobel',187
-1001200,0,'St-Galdric',10012
-1001201,0,'Torreilles Plage',10012
-2001200,0,'Caratg',20012
-2001201,0,'Gare Routière',20012
+100,0,'Aller',1
+101,0,'Retour',1
+200,0,'Aller',2
+201,0,'Retour',2
+300,0,'Aller',3
+301,0,'Retour',3
+400,0,'Aller',4
+401,0,'Retour',4
+500,0,'Aller',5
+501,0,'Retour',5
+600,0,'Aller',6
+601,0,'Retour',6
+700,0,'Aller',7
+701,0,'Retour',7
+800,0,'Aller',8
+801,0,'Retour',8
+900,0,'Aller',9
+901,0,'Retour',9
+1000,0,'Aller',10
+1001,0,'Retour',10
+1100,0,'Aller',11
+1101,0,'Retour',11
+1300,0,'Aller',13
+1301,0,'Retour',13
+1400,0,'Aller',14
+1401,0,'Retour',14
+1500,0,'Aller',15
+1501,0,'Retour',15
+1600,0,'Aller',16
+1601,0,'Retour',16
+1700,0,'Aller',17
+1701,0,'Retour',17
+1800,0,'Aller',18
+1801,0,'Retour',18
+1900,0,'Aller',19
+1901,0,'Retour',19
+2000,0,'Aller',20
+2001,0,'Retour',20
+2100,0,'Aller',21
+2101,0,'Retour',21
+2200,0,'Aller',22
+2201,0,'Retour',22
+2400,0,'Aller',24
+2401,0,'Retour',24
+2500,0,'Aller',25
+2501,0,'Retour',25
+2800,0,'Aller',28
+2801,0,'Retour',28
+2900,0,'Aller',29
+2901,0,'Retour',29
+3000,0,'Aller',30
+3001,0,'Retour',30
+16800,0,'Aller',168
+16801,0,'Retour',168
+17000,0,'Aller',170
+17001,0,'Retour',170
+17100,0,'Aller',171
+17101,0,'Retour',171
+17200,0,'Aller',172
+1001200,0,'Aller',10012
+1001201,0,'Retour',10012
+2001200,0,'Aller',20012
+2001201,0,'Retour',20012
