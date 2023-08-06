@@ -1,63 +1,63 @@
-100,0,'Aller',1
-101,0,'Retour',1
-200,0,'Aller',2
-201,0,'Retour',2
-300,0,'Aller',3
-301,0,'Retour',3
-400,0,'Aller',4
-401,0,'Retour',4
-500,0,'Aller',5
-501,0,'Retour',5
-600,0,'Aller',6
-601,0,'Retour',6
-700,0,'Aller',7
-701,0,'Retour',7
-800,0,'Aller',8
-801,0,'Retour',8
-900,0,'Aller',9
-901,0,'Retour',9
-1000,0,'Aller',10
-1001,0,'Retour',10
-1100,0,'Aller',11
-1101,0,'Retour',11
-1300,0,'Aller',13
-1301,0,'Retour',13
-1400,0,'Aller',14
-1401,0,'Retour',14
-1500,0,'Aller',15
-1501,0,'Retour',15
-1600,0,'Aller',16
-1601,0,'Retour',16
-1700,0,'Aller',17
-1701,0,'Retour',17
-1800,0,'Aller',18
-1801,0,'Retour',18
-1900,0,'Aller',19
-1901,0,'Retour',19
-2000,0,'Aller',20
-2001,0,'Retour',20
-2100,0,'Aller',21
-2101,0,'Retour',21
-2200,0,'Aller',22
-2201,0,'Retour',22
-2500,0,'Aller',25
-2501,0,'Retour',25
-100000,0,'Aller',1000
-100001,0,'Retour',1000
-200000,0,'Aller',2000
-200001,0,'Retour',2000
-300000,0,'Aller',3000
-300001,0,'Retour',3000
-900600,0,'Aller',9006
-900601,0,'Retour',9006
-900700,0,'Aller',9007
-901000,0,'Aller',9010
-901001,0,'Retour',9010
-901100,0,'Aller',9011
-901101,0,'Retour',9011
-901200,0,'Aller',9012
-901201,0,'Retour',9012
-1001200,0,'Aller',10012
-1001201,0,'Retour',10012
-29001000,0,'Aller',290010
-29001001,0,'Retour',290010
+101,0,'Mas St-Pierre',1
+100,0,'St-Féliu D''Avall',1
+200,0,'Parc Des Sports',2
+201,0,'Sankéo',2
+301,0,'Canet Sud',3
+300,0,'Gare TGV',3
+401,0,'Cabestany',4
+400,0,'St-Charles',4
+500,0,'Gare TGV',5
+501,0,'Ste-Marie Plage',5
+600,0,'Abbé Pierre',6
+601,0,'Templiers',6
+701,0,'Chefdebien',7
+700,0,'Saleilles',7
+800,0,'Baillat',8
+801,0,'Catalogne (Jeantet Violet)',8
+901,0,'Ecozonia',9
+900,0,'Gare Routière Méditerranée',9
+1000,0,'Gare LiO',10
+1001,0,'Téléski',10
+1100,0,'Gare TGV',11
+1101,0,'St-Laurent De La Salanque',11
+1301,0,'Vernet Salanque',13
+1300,0,'Villeneuve De La Raho',13
+1400,0,'Catalogne (Brasserie) 1',14
+1401,0,'Pézilla-La-Riv',14
+1501,0,'Castillet 1',15
+1500,0,'Europe',15
+1600,0,'Espace Entreprises',16
+1601,0,'Grand Circuit Du Roussillon',16
+1701,0,'Cassagnes',17
+1700,0,'Estagel',17
+1800,0,'Calce Village',18
+1801,0,'Stade',18
+1901,0,'Opoul',19
+1900,0,'Rivesaltes',19
+2001,0,'Gare Routière Méditerranée',20
+2000,0,'Mimosas',20
+2100,0,'Après-Midi',21
+2101,0,'Matin',21
+2201,0,'Canet Plage',22
+2200,0,'Massilia',22
+2500,0,'Bois Des Pins',25
+2501,0,'Catalogne (Jeantet Violet)',25
+100001,0,'Languedoc',1000
+100000,0,'Tecnosud',1000
+200000,0,'Cité St-Assiscle',2000
+200001,0,'Massilia',2000
+300000,0,'Flandres Dunkerque',3000
+300001,0,'Lycée Maillol',3000
+900601,0,'Canet Sud',9006
+900600,0,'Vert Vallon',9006
+900700,0,'P''Tit Bus',9007
+901001,0,'Parc Des Expositions',9010
+901000,0,'Passerelle',9010
+901100,0,'Après-Midi',9011
+901101,0,'Matin',9011
+901200,0,'Canet Plage',9012
+901201,0,'Roussillon',9012
+1001200,0,'St-Galdric',10012
+1001201,0,'Torreilles Plage',10012
+29001001,0,'Barcarès',290010
+29001000,0,'Gare LiO',290010
