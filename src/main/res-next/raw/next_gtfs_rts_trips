@@ -132,7 +132,6 @@
 14900,0,'Matin',149
 15001,0,'Après-Midi',150
 15000,0,'Matin',150
-15101,0,'Collège Francois Mitterrand - Pollestres',151
 15201,0,'Après-Midi',152
 15200,0,'Matin',152
 15400,0,'Soler - Gare Routière',154
@@ -290,6 +289,7 @@
 10000400,0,'Ecole Jean Moulin',100004
 12000101,0,'Après-Midi',120001
 12000100,0,'Matin',120001
+17000101,0,'Ecole De Latour De France',170001
 17000201,0,'Après-Midi',170002
 17000200,0,'Matin',170002
 20000101,0,'Après-Midi',200001
