@@ -25,7 +25,7 @@
 1400,0,'Catalogne (Brasserie) 1',14
 1401,0,'Pézilla-La-Riv',14
 1501,0,'Castillet 1',15
-1500,0,'Europe',15
+1500,0,'Pollestres',15
 1600,0,'Espace Entreprises',16
 1601,0,'Grand Circuit Du Roussillon',16
 1701,0,'Cassagnes',17
@@ -260,7 +260,7 @@
 52101,0,'Gare Routière - LEPA CFA Simon (Lycée Agricole)',521
 52201,0,'Gare Routière - Lycée Bon Secours / Marillac',522
 100001,0,'Languedoc',1000
-100000,0,'Tecnosud',1000
+100000,0,'Tecnosud 1',1000
 200000,0,'Cité St-Assiscle',2000
 200001,0,'Massilia',2000
 300000,0,'Flandres Dunkerque',3000
@@ -273,7 +273,7 @@
 900600,0,'Vert Vallon',9006
 900700,0,'P''Tit Bus',9007
 900901,0,'Lycée Pablo Picasso - Gare Routière',9009
-1001201,0,'Ctr Commercial 3',10012
+1001201,0,'Ctr Commercial',10012
 1001200,0,'St-Galdric',10012
 2000101,0,'Nouveau Logis',20001
 2000100,0,'Nouveau Logis',20001
