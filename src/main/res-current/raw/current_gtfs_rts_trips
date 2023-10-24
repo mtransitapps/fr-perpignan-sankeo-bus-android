@@ -225,7 +225,8 @@
 20801,0,'Loge De Mer - Torreilles',208
 20901,0,'Cave Coopérative',209
 20900,0,'Jean Moulin',209
-21000,0,'Pollestres - Collège Maintenon',210
+21001,0,'Après-Midi',210
+21000,0,'Matin',210
 21100,0,'Soler - Pyrénées',211
 21201,0,'LEPA CFA Simon (Lycée Agricole) - Vingrau',212
 21301,0,'Après-Midi',213
@@ -245,7 +246,6 @@
 50600,0,'Matin',506
 50701,0,'Après-Midi',507
 50700,0,'Matin',507
-50800,0,'Gare Routière - Lycée Pablo Picasso',508
 50901,0,'Après-Midi',509
 50900,0,'Matin',509
 51001,0,'Après-Midi',510
