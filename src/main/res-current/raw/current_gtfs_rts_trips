@@ -66,8 +66,8 @@
 11000,0,'Collège Jean Mermoz',110
 11101,0,'Après-Midi',111
 11100,0,'Matin',111
-11201,0,'Après-Midi',112
-11200,0,'Matin',112
+11201,0,'Cabestany',112
+11200,0,'Lycée Lurcat / Coll CMatinus',112
 11301,0,'Loge De Mer - Canet',113
 11401,0,'Après-Midi',114
 11400,0,'Matin',114
@@ -104,10 +104,10 @@
 13300,0,'Soler - Gare Routière',133
 13401,0,'Après-Midi',134
 13400,0,'Matin',134
-13501,0,'Après-Midi',135
-13500,0,'Matin',135
-13701,0,'Après-Midi',137
-13700,0,'Matin',137
+13500,0,'Bon Secours',135
+13501,0,'Castelnou',135
+13700,0,'Collège Jules Verne',137
+13701,0,'Meravelles',137
 13801,0,'Après-Midi',138
 13800,0,'Matin',138
 13901,0,'Après-Midi',139
@@ -144,17 +144,17 @@
 16000,0,'Rivesaltes - Gare Routière',160
 16101,0,'Après-Midi',161
 16100,0,'Matin',161
-16201,0,'Après-Midi',162
-16200,0,'Matin',162
-16301,0,'Après-Midi',163
-16300,0,'Matin',163
+16201,0,'Rivesaltes',162
+16200,0,'Sacré Coeur',162
+16301,0,'Rivesaltes',163
+16300,0,'Sacré Coeur',163
 16400,0,'Saleilles - Gare Routière',164
 16501,0,'Après-Midi',165
 16500,0,'Matin',165
 16701,0,'Après-Midi',167
 16700,0,'Matin',167
-16801,0,'Après-Midi',168
-16800,0,'Matin',168
+16800,0,'Collège Pablo Casals',168
+16801,0,'Réart',168
 16901,0,'Après-Midi',169
 16900,0,'Matin',169
 17001,0,'Loge De Mer - St-Laurent-De-La-Salanque',170
@@ -164,15 +164,15 @@
 17200,0,'Matin',172
 17301,0,'Après-Midi',173
 17300,0,'Matin',173
-17401,0,'Après-Midi',174
-17400,0,'Matin',174
+17401,0,'Aloès',174
+17400,0,'Lycée Maillol - Arrêt Scolaire 2',174
 17501,0,'Après-Midi',175
 17500,0,'Matin',175
 17600,0,'St-Estève - Lycée Bon Secours / Marillac',176
 17701,0,'Après-Midi',177
 17700,0,'Matin',177
-17801,0,'Après-Midi',178
-17800,0,'Matin',178
+17801,0,'Aloès',178
+17800,0,'Lycée Maillol - Arrêt Scolaire 2',178
 17901,0,'Bressola Del Monestir',179
 17900,0,'Collège Pompeu Fabra - La Bressola',179
 18000,0,'St-Féliu-D''Avall - Gare Routière',180
@@ -182,11 +182,11 @@
 18200,0,'Matin',182
 18300,0,'Collège Jean Mermoz',183
 18301,0,'St-Hippolyte - Zone Artisanale',183
-18401,0,'Après-Midi',184
-18400,0,'Matin',184
+18400,0,'Collège Jean Mermoz',184
+18401,0,'St-Hippolyte - Zone Artisanale',184
 18500,0,'St-Laurent-De-La-Salanque - Gare Routière',185
-18601,0,'Après-Midi',186
-18600,0,'Matin',186
+18600,0,'Lycée St-Louis De Gonzague',186
+18601,0,'Tourre',186
 18700,0,'St-Laurent-De-La-Salanque - Sacré Coeur',187
 18801,0,'Après-Midi',188
 18800,0,'Matin',188
@@ -225,8 +225,8 @@
 20801,0,'Loge De Mer - Torreilles',208
 20901,0,'Cave Coopérative',209
 20900,0,'Jean Moulin',209
-21001,0,'Après-Midi',210
-21000,0,'Matin',210
+21000,0,'Collège Maintenon',210
+21001,0,'Libertés',210
 21100,0,'Soler - Pyrénées',211
 21201,0,'LEPA CFA Simon (Lycée Agricole) - Vingrau',212
 21301,0,'Après-Midi',213
