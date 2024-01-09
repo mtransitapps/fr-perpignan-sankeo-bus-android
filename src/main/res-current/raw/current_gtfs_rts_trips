@@ -256,7 +256,7 @@
 52101,0,'Gare Routière - LEPA CFA Simon (Lycée Agricole)',521
 52201,0,'Gare Routière - Lycée Bon Secours / Marillac',522
 100001,0,'- Languedoc',1000
-100000,0,'- Parc Des Sports',1000
+100000,0,'- Tecnosud 2',1000
 200000,0,'LB - Cité St Assiscle',2000
 200001,0,'LB - Roseraie',2000
 300000,0,'LC - Flandres Dunkerque',3000
@@ -265,8 +265,8 @@
 400000,0,'Ld - Baillat / Ld - Tourné',4000
 900300,0,'Jean Moulin',9003
 900301,0,'Parking Universitaire',9003
-900500,0,'LD - Bas Vernet 4',9005
-900501,0,'Ld - Baillat',9005
+900501,0,'NitBus - Castillet',9005
+900500,0,'NitBus - Cité Universitaire',9005
 900601,0,'Canet Sud',9006
 900600,0,'Vert Vallon',9006
 900700,0,'P''Tit Bus',9007
