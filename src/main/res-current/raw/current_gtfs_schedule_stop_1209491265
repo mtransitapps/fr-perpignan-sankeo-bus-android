@@ -4,8 +4,6 @@
 '2401-HIV-24b26H-s-Samedi-00',201,82500,0,'L02 - Pezilla La Riv',0,10900,0,'L02 - Pezilla La Riv',0,10600,0,'L02 - Pezilla La Riv',0,10500,0,'L02 - Pezilla La Riv',0,10500,0,'L02 - Pezilla La Riv',0,10500,0,'L02 - Pezilla La Riv',0,15200,0,'L02 - Pezilla La Riv',0,10400,0,'L02 - Pezilla La Riv',0,10100,0,'L02 - Pezilla La Riv',0,10700,0,'L02 - Pezilla La Riv',0,9800,0,'L02 - Pezilla La Riv',0,3700,0,'L02 - Pezilla La Riv',0
 '2401-HIV-24b26H-w-Mercredi-00',200,65400,0,'L02 - Av D''Argelès',0,6100,0,'L02 - Av D''Argelès',0,3300,0,'L02 - Villeneuve De La Raho',0,7100,0,'L02 - Catalogne (Brasserie)',0,8600,0,'L02 - Villeneuve De La Raho',0,12000,0,'L02 - Villeneuve De La Raho',0,18200,0,'L02 - Saleilles',0,5000,0,'L02 - Saleilles',0,18800,0,'L02 - Saleilles',0,19500,0,'L02 - Villeneuve De La Raho',0,9600,0,'L02 - Villeneuve De La Raho',0,6500,0,'L02 - Saleilles',0,3700,0,'L02 - Av D''Argelès',0,1600,0,'L02 - Villeneuve De La Raho',0
 '2401-HIV-24b26H-w-Mercredi-00',201,74400,0,'L02 - Pezilla La Riv',0,8800,0,'L02 - Pezilla La Riv',0,11400,0,'L02 - Pezilla La Riv',0,18400,0,'L02 - Pezilla La Riv',0,11000,0,'L02 - Pezilla La Riv',0,6000,0,'L02 - Pezilla La Riv',0,11100,0,'L02 - Pezilla La Riv',0,19000,0,'L02 - Pezilla La Riv',0,4700,0,'L02 - Pezilla La Riv',0,7100,0,'L02 - Pezilla La Riv',0,3600,0,'L02 - Pezilla La Riv',0,6500,0,'L02 - Pezilla La Riv',0,2900,0,'L02 - Pezilla La Riv',0,6800,0,'L02 - Pezilla La Riv',0,4100,0,'L02 - Pezilla La Riv',0
-'2401-HIV-24b26Hlv-L-Ma-J-V-00',200,65400,0,'L02 - Av D''Argelès',0,6100,0,'L02 - Av D''Argelès',0,3300,0,'L02 - Villeneuve De La Raho',0,7100,0,'L02 - Catalogne (Brasserie)',0,8600,0,'L02 - Villeneuve De La Raho',0,12000,0,'L02 - Villeneuve De La Raho',0,18200,0,'L02 - Saleilles',0,5000,0,'L02 - Saleilles',0,18800,0,'L02 - Saleilles',0,19500,0,'L02 - Villeneuve De La Raho',0,9600,0,'L02 - Villeneuve De La Raho',0,6500,0,'L02 - Saleilles',0,3700,0,'L02 - Av D''Argelès',0,1600,0,'L02 - Villeneuve De La Raho',0
-'2401-HIV-24b26Hlv-L-Ma-J-V-00',201,74400,0,'L02 - Pezilla La Riv',0,8800,0,'L02 - Pezilla La Riv',0,11400,0,'L02 - Pezilla La Riv',0,18400,0,'L02 - Pezilla La Riv',0,11000,0,'L02 - Pezilla La Riv',0,6000,0,'L02 - Pezilla La Riv',0,11100,0,'L02 - Pezilla La Riv',0,19000,0,'L02 - Pezilla La Riv',0,4700,0,'L02 - Pezilla La Riv',0,7100,0,'L02 - Pezilla La Riv',0,3600,0,'L02 - Pezilla La Riv',0,6500,0,'L02 - Pezilla La Riv',0,2900,0,'L02 - Pezilla La Riv',0,6800,0,'L02 - Pezilla La Riv',0,4100,0,'L02 - Pezilla La Riv',0
 '2401-HIV-24d07H-d-Dimanche-01',200,90200,,'',0,13200,,'',0,12500,,'',0,68300,,'',0
 '2401-HIV-24d07H-d-Dimanche-01',201,92000,,'',0,40800,,'',0,27600,,'',0,29700,,'',0
 '2401-HIV-24d08Vlv-Semaine-01',200,65600,0,'L02 - Av D''Argelès',0,6000,0,'L02 - Av D''Argelès',0,3300,0,'L02 - Villeneuve De La Raho',0,7000,0,'L02 - Catalogne (Brasserie)',0,8800,0,'L02 - Villeneuve De La Raho',0,11900,0,'L02 - Villeneuve De La Raho',0,18200,0,'L02 - Saleilles',0,4900,0,'L02 - Saleilles',0,18800,0,'L02 - Saleilles',0,19600,0,'L02 - Villeneuve De La Raho',0,9600,0,'L02 - Villeneuve De La Raho',0,6400,0,'L02 - Saleilles',0,3800,0,'L02 - Av D''Argelès',0,1500,0,'L02 - Villeneuve De La Raho',0
@@ -16,13 +14,13 @@
 '2401-HIV-24d22Hlv-L-Ma-J-V-01',201,74400,0,'L02 - Pezilla La Riv',0,8800,0,'L02 - Pezilla La Riv',0,11400,0,'L02 - Pezilla La Riv',0,18400,0,'L02 - Pezilla La Riv',0,11000,0,'L02 - Pezilla La Riv',0,6000,0,'L02 - Pezilla La Riv',0,11100,0,'L02 - Pezilla La Riv',0,19000,0,'L02 - Pezilla La Riv',0,4700,0,'L02 - Pezilla La Riv',0,7100,0,'L02 - Pezilla La Riv',0,3600,0,'L02 - Pezilla La Riv',0,6500,0,'L02 - Pezilla La Riv',0,2900,0,'L02 - Pezilla La Riv',0,6800,0,'L02 - Pezilla La Riv',0,4100,0,'L02 - Pezilla La Riv',0
 '2401-HIV-24e12H-d-Dimanche-01',200,90200,,'',0,13200,,'',0,12500,,'',0,68300,,'',0
 '2401-HIV-24e12H-d-Dimanche-01',201,92000,,'',0,40800,,'',0,27600,,'',0,29700,,'',0
-'2401-HIV-S24a29-w-Mercredi-00',14000,70500,,'',0
-'2401-HIV-S24a29lv-L-Ma-J-V-00',14000,70500,,'',0
-'2401-HIV-S24a29-w-Mercredi-00-0010000',14101,123700,,'',0
-'2401-HIV-S24a29lv-L-Ma-J-V-00-1101100',14101,162500,,'',0,12500,,'',0,8000,,'',0
-'2401-HIV-S24a29-w-Mercredi-00',14200,71500,,'',0
-'2401-HIV-S24a29-w-Mercredi-00-0010000',14201,123700,,'',0
-'2401-HIV-S24a29lv-L-Ma-J-V-00',14200,71500,,'',0
-'2401-HIV-S24a29lv-L-Ma-J-V-00-1101100',14201,162500,,'',0,12500,,'',0,8000,,'',0
-'2401-HIV-S24a29-w-Mercredi-00-0010000',14401,124700,,'',0
-'2401-HIV-S24a29lv-L-Ma-J-V-00-1101100',14401,161700,,'',0,10000,,'',0
+'2401-HIV-S24d22-w-Mercredi-00',14000,70500,,'',0
+'2401-HIV-S24d22lv-L-Ma-J-V-00',14000,70500,,'',0
+'2401-HIV-S24d22-w-Mercredi-00-0010000',14101,123700,,'',0
+'2401-HIV-S24d22lv-L-Ma-J-V-00-1101100',14101,162500,,'',0,12500,,'',0,8000,,'',0
+'2401-HIV-S24d22-w-Mercredi-00',14200,71500,,'',0
+'2401-HIV-S24d22-w-Mercredi-00-0010000',14201,123700,,'',0
+'2401-HIV-S24d22lv-L-Ma-J-V-00',14200,71500,,'',0
+'2401-HIV-S24d22lv-L-Ma-J-V-00-1101100',14201,162500,,'',0,12500,,'',0,8000,,'',0
+'2401-HIV-S24d22-w-Mercredi-00-0010000',14401,124700,,'',0
+'2401-HIV-S24d22lv-L-Ma-J-V-00-1101100',14401,161700,,'',0,10000,,'',0
