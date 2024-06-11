@@ -128,6 +128,8 @@ public class PerpignanSankeoBusAgencyTools extends DefaultAgencyTools {
 			return 9012L;
 		case "NCSU":
 			return 9013L;
+		case "NSAI":
+			return 9014L;
 		}
 		try {
 			return Long.parseLong(SCHOOL_RID_.matcher(routeShortName).replaceAll(SCHOOL_RID_REPLACEMENT));
