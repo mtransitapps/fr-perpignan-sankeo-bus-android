@@ -21,7 +21,7 @@
 1100,0,'L11 - Gare TGV',11
 1101,0,'L11 - St Laurent De La Slque',11
 1501,0,'L15 - Castillet',15
-1500,0,'L15 - Pollestres Europe',15
+1500,0,'L15 - Pollestres',15
 1600,0,'L16 - Languedoc',16
 1601,0,'L16 - Rivesaltes Gd Circuit Du Roussillo',16
 1701,0,'L17 - Cassagnes',17
@@ -270,6 +270,8 @@
 900600,0,'Canet''On Vert Vallon',9006
 900700,0,'P''Tit Bus',9007
 900901,0,'Lycée Pablo Picasso - Gare Routière',9009
+901001,0,'Parc Des Expositions',9010
+901000,0,'Passerelle',9010
 901301,0,'Castillet 1',9013
 901300,0,'Cimetière Sud',9013
 2000101,0,'Nouveau Logis',20001

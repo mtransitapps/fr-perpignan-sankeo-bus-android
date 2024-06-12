@@ -2,12 +2,12 @@
 2,'2','Pézilla / St-Estève <> Saleilles / Villeneuve-Raho','53c4f1',50,3
 3,'3','Canet Sud <> Gare TGV','e37f08',51,3
 4,'4','Caratg <> Canohès <> Bompas <> Torreilles Plage','faca00',52,3
-5,'5','Ste-Marie Plage <> Bompas <> Catalogne','65a6db',53,3
-6,'6','Baixas <> Aéroport <> Gare TGV <> Chefdebien','006633',54,3
+5,'5','Ste-Marie Plage <> Bompas <> Gare TGV','65a6db',53,3
+6,'6','Baixas <> Aéroport <> Gare TGV','006633',54,3
 7,'7','Diderot <> Parc Des Sports','d0aad0',55,3
 8,'8','Cabestany <> Catalogne','ea5284',56,3
 9,'9','Vingrau <> Languedoc <> Gare Routière','672d87',57,3
-10,'10','Barcarès <> Languedoc <> Gare TGV','6ea2d7',1567,3
+10,'10','Barcarès <> Languedoc <> Gare LiO','6ea2d7',1567,3
 11,'11','St-Laurent-De-La-Salanque <> Gare TGV','8ec479',1568,3
 15,'15','Castillet <> Pollestres','8ec479',1572,3
 16,'16','Cap Roussillon <> Rivesaltes <> Languedoc','d0aad0',1573,3
@@ -16,11 +16,11 @@
 19,'19','Opoul <> Rivesaltes <> Gare Routière','ee7103',1576,3
 20,'20','Gare Routière <> Llupia','15a565',1598,3
 21,'21','Rivesaltes <> Espace Entreprises <> Gare TGV','15a565',1599,3
-22,'22','St-Nazaire <> Massilia <> Gare Routière','15a565',1600,3
+22,'22','Canet Plage <> St-Nazaire <> Massilia','15a565',1600,3
 23,'23','Gare Routière <> Canohès','15a565',1601,3
 24,'24','Lunette <> Parc Des Sports <> Picasso / Massilia','15a565',1602,3
 25,'25','Catalogne <> Bois Des Pins','943471',1603,3
-26,'26','Lycée Maillol <> Bas Vernet','15a565',1604,3
+26,'26','Lycée Maillol <> Chefdebien','15a565',1604,3
 100,'100','Baho - Lycée Bon Secours / Marillac','',48625,3
 101,'101','Baho - Collège Le Riberal','',48626,3
 103,'103','Baixas - Collège Joffre','',48628,3
@@ -153,6 +153,7 @@
 9006,'NCAN','Canet Sud <> Vert Vallon','1887c9',2390178,3
 9007,'NPTB','P''Tit Bus','e6007e',2403248,3
 9009,'NWIL','Lycée Pablo Picasso - Gare Routière','',2409644,3
+9010,'NRAY','Navette Les Rayonnantes','e6b33e',2404604,3
 9013,'NCSU','Navette Cimetière Sud','a06a1a',2390743,3
 20001,'2P1','Ecole Leon Blum - Perpignan','',50579,3
 80001,'8P1','Ecole Ludovic Masse - Perpignan','',56345,3
@@ -167,7 +168,7 @@
 230001,'23P1','Ecole Blaise Pascal - Perpignan','',1541090,3
 290003,'3EX','Canet <> Catalogne','e37f08',51238,3
 290004,'4EX','Canohès <> Toulouges <> Catalogne','faca00',52199,3
-290005,'5EX','Ste-Marie <> Villelongue <> Catalogne','65a6db',53160,3
+290005,'5EX','Ste-Marie <> Villelongue <> Gare TGV','65a6db',53160,3
 290006,'6EX','Baixas <> Peyrestortes <> Catalogne','006633',54121,3
 290009,'9EX','Espira De L''Agly <> Rivesaltes <> Gare Routière','672d87',57004,3
 290012,'12EX','Torreilles <> Bompas <> Catalogne','8ec479',1510036,3
