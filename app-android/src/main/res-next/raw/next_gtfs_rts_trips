@@ -1,43 +1,43 @@
-101,0,'L01 - Cabestany Orfila / L01 - Roseraie',1
-100,0,'L01 - St Feliu D''Avall',1
-201,0,'L02 - Pezilla La Riv / L02 - St Esteve Cliniques',2
-200,0,'L02 - Saleilles / L02 - Villeneuve De La Raho',2
-301,0,'L03 - Canet Sud',3
-300,0,'L03 - Gare TGV',3
-400,0,'L04 - Canohes Caratg',4
-401,0,'L04 - Torreilles Plage',4
-500,0,'L05 - Gare TGV',5
-501,0,'L05 - Ste-Marie Plage',5
-601,0,'L06 - Baixas Templiers',6
-600,0,'L06 - Gare TGV',6
-701,0,'L07 - Diderot',7
-700,0,'L07 - Parc Des Sports',7
-801,0,'L08 - Cabestany',8
-800,0,'L08 - Catalogne (Brasserie)',8
+101,0,'Cabestany Orfila / Roseraie',1
+100,0,'St Feliu D''Avall',1
+201,0,'Pezilla La Riv / St Esteve Cliniques',2
+200,0,'Saleilles / Villeneuve De La Raho',2
+301,0,'Canet Sud',3
+300,0,'Gare TGV',3
+400,0,'Canohes Caratg',4
+401,0,'Torreilles Plage',4
+500,0,'Gare TGV',5
+501,0,'Ste-Marie Plage',5
+601,0,'Baixas Templiers',6
+600,0,'Gare TGV',6
+701,0,'Diderot',7
+700,0,'Parc Des Sports',7
+801,0,'Cabestany',8
+800,0,'Catalogne (Brasserie)',8
 901,0,'Collège Estagel',9
 900,0,'Gare Routière Méditerranée',9
-1000,0,'L10 - Garo LiO',10
-1001,0,'L10 - Le Barcares Téléski Nautique',10
-1100,0,'L11 - Gare TGV',11
-1101,0,'L11 - St Laurent De La Slque',11
-1501,0,'L15 - Castillet',15
-1500,0,'L15 - Pollestres Europe',15
-1600,0,'L16 - Languedoc',16
-1601,0,'L16 - Rivesaltes Cap Roussillon',16
-1701,0,'L17 - Cassagnes',17
-1700,0,'L17 - Estagel',17
-1801,0,'L18 - Baixas Stade',18
-1800,0,'L18 - Calce Village',18
-1901,0,'L19 - Opoul',19
-1900,0,'L19 - Rivesaltes',19
-2001,0,'L20 - Gare Routière Méditerranée',20
-2000,0,'L20 - Llupia Mimosas',20
-2100,0,'L21 - Gare TGV',21
-2101,0,'L21 - Rivesaltes Espace Méditerranée',21
-2201,0,'L22 - Canet Plage',22
-2200,0,'L22 - Massilia',22
-2500,0,'L25 - Bois Des Pins',25
-2501,0,'L25 - Catalogne (Jeantet Violet)',25
+1001,0,'Barcares Téléski Nautique',10
+1000,0,'Garo LiO',10
+1100,0,'Gare TGV',11
+1101,0,'St Laurent De La Slque',11
+1501,0,'Castillet',15
+1500,0,'Pollestres Europe',15
+1600,0,'Languedoc',16
+1601,0,'Rivesaltes Cap Roussillon',16
+1701,0,'Cassagnes',17
+1700,0,'Estagel',17
+1801,0,'Baixas Stade',18
+1800,0,'Calce Village',18
+1901,0,'Opoul',19
+1900,0,'Rivesaltes',19
+2001,0,'Gare Routière Méditerranée',20
+2000,0,'Llupia Mimosas',20
+2100,0,'Gare TGV',21
+2101,0,'Rivesaltes Espace Méditerranée',21
+2201,0,'Canet Plage',22
+2200,0,'Massilia',22
+2500,0,'Bois Des Pins',25
+2501,0,'Catalogne (Jeantet Violet)',25
 2600,0,'Chefdebien',26
 2601,0,'Lycée Maillol',26
 100001,0,'- Languedoc',1000
