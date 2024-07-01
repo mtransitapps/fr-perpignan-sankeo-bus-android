@@ -13,6 +13,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
+import org.mtransit.commons.Cleaner;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GStop;
@@ -198,11 +199,14 @@ public class PerpignanSankeoBusAgencyTools extends DefaultAgencyTools {
 	private static final Pattern PM_ = Pattern.compile(group("PM"), Pattern.CASE_INSENSITIVE);
 	private static final String PM_REPLACEMENT = "Après-Midi";
 
+	private static final Cleaner STARTS_WITH_L_RSN = new Cleaner("^[l]\\d+ - ", true);
+
 	@NotNull
 	@Override
 	public String cleanTripHeadsign(@NotNull String tripHeadsign) {
 		tripHeadsign = CleanUtils.toLowerCaseUpperCaseWords(getFirstLanguageNN(), tripHeadsign, getWords());
 		tripHeadsign = ALLER_RETOUR.matcher(tripHeadsign).replaceAll(EMPTY);
+		tripHeadsign = STARTS_WITH_L_RSN.clean(tripHeadsign);
 		tripHeadsign = AM_.matcher(tripHeadsign).replaceAll(AM_REPLACEMENT);
 		tripHeadsign = PM_.matcher(tripHeadsign).replaceAll(PM_REPLACEMENT);
 		tripHeadsign = CleanUtils.removeVia(tripHeadsign);
