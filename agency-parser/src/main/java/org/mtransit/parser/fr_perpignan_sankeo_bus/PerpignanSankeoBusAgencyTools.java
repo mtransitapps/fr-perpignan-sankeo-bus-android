@@ -199,7 +199,7 @@ public class PerpignanSankeoBusAgencyTools extends DefaultAgencyTools {
 	private static final Pattern PM_ = Pattern.compile(group("PM"), Pattern.CASE_INSENSITIVE);
 	private static final String PM_REPLACEMENT = "Après-Midi";
 
-	private static final Cleaner STARTS_WITH_L_RSN = new Cleaner("^[l]\\d+ - ", true);
+	private static final Cleaner STARTS_WITH_L_RSN = new Cleaner("^[l]\\w+ - ", true);
 
 	@NotNull
 	@Override
