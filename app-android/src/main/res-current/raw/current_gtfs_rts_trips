@@ -256,14 +256,14 @@
 52000,0,'Matin',520
 52101,0,'Gare Routière - LEPA CFA Simon (Lycée Agricole)',521
 52201,0,'Gare Routière - Lycée Bon Secours / Marillac',522
-100001,0,'- Languedoc',1000
-100000,0,'- Tecnosud 2',1000
-200000,0,'LB - Cité St-Assiscle',2000
-200001,0,'LB - Roseraie',2000
-300000,0,'LC - Flandres Dunkerque',3000
-300001,0,'Lc - Sankéo',3000
-400001,0,'LD - Bas Vernet 4',4000
-400000,0,'Ld - Baillat / Ld - Tourné',4000
+100001,0,'Languedoc',1000
+100000,0,'Tecnosud 2',1000
+200000,0,'Cité St-Assiscle',2000
+200001,0,'Roseraie',2000
+300000,0,'Flandres Dunkerque',3000
+300001,0,'Sankéo',3000
+400000,0,'Baillat / Tourné',4000
+400001,0,'Bas Vernet 4',4000
 900300,0,'Jean Moulin',9003
 900301,0,'Parking Universitaire',9003
 900601,0,'Canet''On Canet Sud',9006
@@ -295,18 +295,18 @@
 20000200,0,'Matin',200002
 23000101,0,'Après-Midi',230001
 23000100,0,'Matin',230001
-29000300,0,'L03EX - Catalogne (Jeantet Violet)',290003
-29000301,0,'L03ex - Canet Plage',290003
-29000401,0,'L04EX - Catalogne (Jeantet Violet)',290004
-29000400,0,'L04ex - Canohes Caratg',290004
-29000500,0,'L05ex - Gare TGV',290005
-29000501,0,'L05ex - Ste-Marie Plage',290005
-29000600,0,'L06EX - Catalogne (Jeantet Violet)',290006
-29000601,0,'L06ex - Baixas Templiers',290006
-29000900,0,'L09EX - Catalogne (Jeantet Violet)',290009
-29000901,0,'L09ex - Espire-De-L''Agly',290009
-29001200,0,'L12EX - Catalogne (Jeantet Violet)',290012
-29001201,0,'L12ex - Torreilles Plage',290012
+29000301,0,'Canet Plage',290003
+29000300,0,'Catalogne (Jeantet Violet)',290003
+29000400,0,'Canohes Caratg',290004
+29000401,0,'Catalogne (Jeantet Violet)',290004
+29000500,0,'Gare TGV',290005
+29000501,0,'Ste-Marie Plage',290005
+29000601,0,'Baixas Templiers',290006
+29000600,0,'Catalogne (Jeantet Violet)',290006
+29000900,0,'Catalogne (Jeantet Violet)',290009
+29000901,0,'Espire-De-L''Agly',290009
+29001200,0,'Catalogne (Jeantet Violet)',290012
+29001201,0,'Torreilles Plage',290012
 30001101,0,'Après-Midi',300011
 30001100,0,'Matin',300011
 30002201,0,'Après-Midi',300022

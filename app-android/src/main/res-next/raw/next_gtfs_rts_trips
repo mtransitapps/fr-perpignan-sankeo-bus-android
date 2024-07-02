@@ -40,14 +40,14 @@
 2501,0,'Catalogne (Jeantet Violet)',25
 2600,0,'Chefdebien',26
 2601,0,'Lycée Maillol',26
-100001,0,'- Languedoc',1000
-100000,0,'- Tecnosud 2',1000
-200000,0,'LB - Cité St-Assiscle',2000
-200001,0,'LB - Roseraie',2000
-300000,0,'LC - Flandres Dunkerque',3000
-300001,0,'Lc - Sankéo',3000
-400001,0,'LD - Bas Vernet 4',4000
-400000,0,'Ld - Baillat / Ld - Tourné',4000
+100001,0,'Languedoc',1000
+100000,0,'Tecnosud 2',1000
+200000,0,'Cité St-Assiscle',2000
+200001,0,'Roseraie',2000
+300000,0,'Flandres Dunkerque',3000
+300001,0,'Sankéo',3000
+400000,0,'Baillat / Tourné',4000
+400001,0,'Bas Vernet 4',4000
 900300,0,'Jean Moulin',9003
 900301,0,'Parking Universitaire',9003
 900601,0,'Canet Sud',9006
@@ -62,7 +62,7 @@
 901301,0,'Castillet 1',9013
 901300,0,'Cimetière Sud',9013
 901400,0,'Navette Saisonniers',9014
-29001000,0,'L10ex - Gare LiO',290010
-29001001,0,'L10ex - Le Barcares',290010
+29001001,0,'Barcares',290010
+29001000,0,'Gare LiO',290010
 29001201,0,'Après-Midi',290012
 29001200,0,'Matin',290012
