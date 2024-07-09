@@ -1,15 +1,9 @@
-'2401-HIV-24b26H-s-Samedi-00',201,65600,0,'St Esteve',0,14400,0,'St Esteve',0,10900,0,'St Esteve',0,10500,0,'St Esteve',0,10500,0,'St Esteve',0,10600,0,'St Esteve',0,9900,0,'St Esteve',0,11400,0,'St Esteve',0,10000,0,'St Esteve',0,10500,0,'St Esteve',0,10500,0,'St Esteve',0,10000,0,'St Esteve Cliniques',0
-'2401-HIV-24b26H-w-Mercredi-00',201,65400,0,'St Esteve',0,9600,0,'St Esteve Cliniques',0,10400,0,'Pezilla La Riv',0,15000,0,'St Esteve Cliniques',0,11900,0,'St Esteve Cliniques',0,10600,0,'St Esteve',0,8900,0,'Pezilla La Riv',0,10000,0,'St Esteve',0,9000,0,'Pezilla La Riv',0,9500,0,'St Esteve Cliniques',0,11500,0,'Pezilla La Riv',0,12700,0,'St Esteve Cliniques',0,8100,0,'St Esteve Cliniques',0
-'2401-HIV-24d22Hlv-L-Ma-J-V-01',201,65400,0,'St Esteve',0,9600,0,'St Esteve Cliniques',0,10400,0,'Pezilla La Riv',0,15000,0,'St Esteve Cliniques',0,11900,0,'St Esteve Cliniques',0,10600,0,'St Esteve',0,8900,0,'Pezilla La Riv',0,10000,0,'St Esteve',0,9000,0,'Pezilla La Riv',0,9500,0,'St Esteve Cliniques',0,11500,0,'Pezilla La Riv',0,12700,0,'St Esteve Cliniques',0,8100,0,'St Esteve Cliniques',0
-'2401-HIV-24e12H-d-Dimanche-01',201,94300,,'',0,29100,,'',0,27400,,'',0,25000,,'',0
-'2401-HIV-24g04Hlv-L-Ma-J-V-00',201,65400,0,'St Esteve',0,9600,0,'St Esteve Cliniques',0,10400,0,'Pezilla La Riv',0,15000,0,'St Esteve Cliniques',0,11900,0,'St Esteve Cliniques',0,10600,0,'St Esteve',0,8900,0,'Pezilla La Riv',0,10000,0,'St Esteve',0,9000,0,'Pezilla La Riv',0,9500,0,'St Esteve Cliniques',0,11500,0,'Pezilla La Riv',0,12700,0,'St Esteve Cliniques',0,8100,0,'St Esteve Cliniques',0
-'2401-HIV-S24e21-w-Mercredi-00',16400,65800,,'',0
-'2401-HIV-S24e21lv-L-Ma-J-V-00',16400,65800,,'',0
-'2401-HIV-S24e21-w-Mercredi-00',16500,70800,,'',0
-'2401-HIV-S24e21lv-L-Ma-J-V-00',16500,70800,,'',0
-'2401-HIV-S24e21-w-Mercredi-00-0010000',16701,121700,,'',0
-'2401-HIV-S24e21lv-L-Ma-J-V-00-1101100',16701,162100,,'',0
-'2401-HIV-S24e21-w-Mercredi-00',16900,72900,,'',0
-'2401-HIV-S24e21lv-L-Ma-J-V-00',16900,72900,,'',0
-'2401-HIV-S24e21-w-Mercredi-00',21700,71900,,'',0
-'2401-HIV-S24e21lv-L-Ma-J-V-00',21700,71900,,'',0
+'2407-ETE-24g06E-d-Dimanche-00',201,94300,,'',0,29100,,'',0,27400,,'',0,25000,,'',0
+'2407-ETE-24g06E-s-Samedi-00',201,65600,0,'St Esteve',0,9900,0,'St Esteve',0,15400,0,'St Esteve',0,10500,0,'St Esteve',0,10500,0,'St Esteve',0,10600,0,'St Esteve',0,9900,0,'St Esteve Cliniques',0,11400,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0
+'2407-ETE-24g06Elv-Semaine-01',201,65600,0,'St Esteve',0,9900,0,'St Esteve',0,15400,0,'St Esteve',0,10500,0,'St Esteve',0,10500,0,'St Esteve',0,10600,0,'St Esteve',0,9900,0,'St Esteve Cliniques',0,11400,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0
+'2407-ETE-24g17E-s-Samedi-00',201,65600,0,'St Esteve',0,9900,0,'St Esteve',0,15400,0,'St Esteve',0,10500,0,'St Esteve',0,10500,0,'St Esteve',0,10600,0,'St Esteve',0,9900,0,'St Esteve Cliniques',0,11400,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0
+'2407-ETE-24g17Elv-Semaine-00',201,65600,0,'St Esteve',0,9900,0,'St Esteve',0,15400,0,'St Esteve',0,10500,0,'St Esteve',0,10500,0,'St Esteve',0,10600,0,'St Esteve',0,9900,0,'St Esteve Cliniques',0,11400,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0
+'2407-ETE-24h02Elv-Semaine-00',201,65600,0,'St Esteve',0,9900,0,'St Esteve',0,15400,0,'St Esteve',0,10500,0,'St Esteve',0,10500,0,'St Esteve',0,10600,0,'St Esteve',0,9900,0,'St Esteve Cliniques',0,11400,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0
+'2407-ETE-24h15E-d-Dimanche-00',201,94300,,'',0,29100,,'',0,27400,,'',0,25000,,'',0
+'2407-ETE-24h22Elv-Semaine-00',201,65600,0,'St Esteve',0,9900,0,'St Esteve',0,15400,0,'St Esteve',0,10500,0,'St Esteve',0,10500,0,'St Esteve',0,10600,0,'St Esteve',0,9900,0,'St Esteve Cliniques',0,11400,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10500,0,'St Esteve Cliniques',0,10000,0,'St Esteve Cliniques',0
+'2407-ETE-24i06E-d-Dimanche-00',201,94300,,'',0,29100,,'',0,27400,,'',0,25000,,'',0
