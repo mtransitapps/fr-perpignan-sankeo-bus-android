@@ -14,7 +14,7 @@
 700,0,'Parc Des Sports',7
 801,0,'Cabestany',8
 800,0,'Catalogne (Brasserie)',8
-901,0,'Collège Estagel',9
+901,0,'Estagel Collège Estagel',9
 900,0,'Gare Routière Méditerranée',9
 1001,0,'Barcares Téléski Nautique',10
 1000,0,'Garo LiO',10
@@ -48,21 +48,17 @@
 300001,0,'Sankéo',3000
 400000,0,'Baillat / Tourné',4000
 400001,0,'Bas Vernet 4',4000
-900300,0,'Jean Moulin',9003
-900301,0,'Parking Universitaire',9003
-900601,0,'Canet Sud',9006
-900600,0,'Vert Vallon',9006
+900601,0,'Canet''On Canet Sud',9006
+900600,0,'Canet''On Vert Vallon',9006
 900700,0,'P''Tit Bus',9007
-901001,0,'Parc Des Expositions',9010
-901000,0,'Passerelle',9010
-901100,0,'Après-Midi',9011
-901101,0,'Matin',9011
-901200,0,'Canet Plage',9012
-901201,0,'Roussillon',9012
+901100,0,'Navette Découverte Gare TGV',9011
+901101,0,'Navette Découverte Tautavel',9011
+901200,0,'Navette Inter-Plages Canet Plage',9012
+901201,0,'Navette Inter-Plages Le Barcares Roussil',9012
 901301,0,'Castillet 1',9013
 901300,0,'Cimetière Sud',9013
-901400,0,'Navette Saisonniers',9014
+901400,0,'Bus Des Saisonniers',9014
 29001001,0,'Barcares',290010
 29001000,0,'Gare LiO',290010
-29001201,0,'Après-Midi',290012
-29001200,0,'Matin',290012
+29001200,0,'Gare TGV',290012
+29001201,0,'Torreilles Plage',290012
