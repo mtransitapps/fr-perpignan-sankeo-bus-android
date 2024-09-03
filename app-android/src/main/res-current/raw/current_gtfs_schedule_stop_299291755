@@ -1,8 +1,19 @@
-'2407-ETE-24g06E-d-Dimanche-00',400,80800,0,'Canohes',0,12500,0,'Canohes',0,12500,0,'Canohes',0,20000,0,'Canohes',0,16500,0,'Canohes',0,12500,0,'Canohes',0,16600,0,'Canohes',0,12500,0,'Canohes',0
-'2407-ETE-24g17E-s-Samedi-00',400,82300,0,'Canohes',0,20400,0,'Canohes',0,20100,0,'Canohes',0,19500,0,'Canohes',0,20200,0,'Canohes',0,19900,0,'Canohes',0,8500,0,'Canohes',0
-'2407-ETE-24h02Elv-Semaine-00',400,82300,0,'Canohes',0,20500,0,'Canohes',0,20000,0,'Canohes',0,19500,0,'Canohes',0,20600,0,'Canohes',0,9100,,'',0,10900,0,'Canohes',0,8500,0,'Canohes',0
-'2407-ETE-24h15E-d-Dimanche-00',400,80800,0,'Canohes',0,12500,0,'Canohes',0,12500,0,'Canohes',0,20000,0,'Canohes',0,16500,0,'Canohes',0,12500,0,'Canohes',0,16600,0,'Canohes',0,12500,0,'Canohes',0
-'2407-ETE-24h22Elv-Semaine-00',400,82300,0,'Canohes',0,20500,0,'Canohes',0,20000,0,'Canohes',0,19500,0,'Canohes',0,20600,0,'Canohes',0,9100,,'',0,10900,0,'Canohes',0,8500,0,'Canohes',0
-'2407-ETE-24i01E-d-Dimanche-00',400,80800,0,'Canohes',0,12500,0,'Canohes',0,12500,0,'Canohes',0,20000,0,'Canohes',0,16500,0,'Canohes',0,12500,0,'Canohes',0,16600,0,'Canohes',0,12500,0,'Canohes',0
-'2407-ETE-24h02Elv-Semaine-00',29001200,65300,,'',0,10000,,'',0
-'2407-ETE-24h22Elv-Semaine-00',29001200,65300,,'',0,10000,,'',0
+'2409-HIV-24i02H-d-Dimanche-00',400,80800,0,'Canohes',0,12500,0,'Canohes',0,12500,0,'Canohes',0,20000,0,'Canohes',0,16500,0,'Canohes',0,12500,0,'Canohes',0,16600,0,'Canohes',0,12500,0,'Canohes',0
+'2409-HIV-24i02H-s-Samedi-00',400,82700,0,'Canohes',0,19900,0,'Canohes',0,20000,0,'Canohes',0,20100,0,'Canohes',0,20300,0,'Canohes',0,20700,0,'Canohes',0
+'2409-HIV-24i02H-w-Mercredi-00',400,92600,0,'Canohes',0,29900,0,'Canohes',0,12500,0,'Canohes',0,10500,0,'Canohes',0,17500,0,'Canohes',0,8500,0,'Canohes',0,18800,0,'Canohes',0
+'2409-HIV-24i02Hlv-L-Ma-J-V-00',400,92600,0,'Canohes',0,29900,0,'Canohes',0,12500,0,'Canohes',0,10500,0,'Canohes',0,17500,0,'Canohes',0,8500,0,'Canohes',0,18800,0,'Canohes',0
+'2409-HIV-24i09H-d-Dimanche-00',400,80800,0,'Canohes',0,12500,0,'Canohes',0,12500,0,'Canohes',0,20000,0,'Canohes',0,16500,0,'Canohes',0,12500,0,'Canohes',0,16600,0,'Canohes',0,12500,0,'Canohes',0
+'2409-HIV-24i12Hlv-L-Ma-J-V-00',400,92600,0,'Canohes',0,29900,0,'Canohes',0,12500,0,'Canohes',0,10500,0,'Canohes',0,17500,0,'Canohes',0,8500,0,'Canohes',0,18800,0,'Canohes',0
+'2409-HIV-24j06H-d-Dimanche-00',400,114800,0,'Bompas Salanque',0,29900,0,'Bompas Salanque',0,30000,0,'Bompas Salanque',0
+'2409-HIV-24j21Vlv-Semaine-01',400,92800,0,'Canohes',0,30000,0,'Canohes',0,12500,0,'Canohes',0,10400,0,'Canohes',0,17500,0,'Canohes',0,10500,0,'Canohes',0,16600,0,'Canohes',0
+'2409-HIV-24j26H-d-Dimanche-00',400,114800,0,'Bompas Salanque',0,29900,0,'Bompas Salanque',0,30000,0,'Bompas Salanque',0
+'2409-HIV-24j28Vlv-Semaine-01',400,92800,0,'Canohes',0,30000,0,'Canohes',0,12500,0,'Canohes',0,10400,0,'Canohes',0,17500,0,'Canohes',0,10500,0,'Canohes',0,16600,0,'Canohes',0
+'2409-HIV-24l23Vlv-Semaine-00',400,92800,0,'Canohes',0,30000,0,'Canohes',0,12500,0,'Canohes',0,10400,0,'Canohes',0,17500,0,'Canohes',0,10500,0,'Canohes',0,16600,0,'Canohes',0
+'2409-HIV-S24i02-w-Mercredi-00',12700,71200,,'',0
+'2409-HIV-S24i02lv-L-Ma-J-V-00',12700,71200,,'',0
+'2409-HIV-24i02H-w-Mercredi-00',29001200,64400,,'',0,10400,,'',0
+'2409-HIV-24i02Hlv-L-Ma-J-V-00',29001200,64400,,'',0,10400,,'',0
+'2409-HIV-24i12Hlv-L-Ma-J-V-00',29001200,64400,,'',0,10400,,'',0
+'2409-HIV-24j21Vlv-Semaine-01',29001200,64900,,'',0,10400,,'',0
+'2409-HIV-24j28Vlv-Semaine-01',29001200,64900,,'',0,10400,,'',0
+'2409-HIV-24l23Vlv-Semaine-00',29001200,64900,,'',0,10400,,'',0
