@@ -7,7 +7,7 @@
 7,'7','Diderot <> Parc Des Sports','d0aad0',55,3
 8,'8','Cabestany <> Catalogne','ea5284',56,3
 9,'9','Vingrau <> Languedoc <> Gare Routière','672d87',57,3
-10,'10','Barcarès <> Languedoc <> Gare TGV / LiO','6ea2d7',1567,3
+10,'10','Barcarès <> Languedoc <> Gare TGV','6ea2d7',1567,3
 11,'11','St-Laurent-De-La-Salanque <> Gare TGV','8ec479',1568,3
 15,'15','Castillet <> Pollestres','8ec479',1572,3
 16,'16','Cap Roussillon <> Rivesaltes <> Languedoc','d0aad0',1573,3
@@ -21,130 +21,6 @@
 24,'24','Lunette <> Parc Des Sports <> Picasso / Massilia','15a565',1602,3
 25,'25','Catalogne <> Bois Des Pins','943471',1603,3
 26,'26','Lycée Maillol <> Chefdebien','15a565',1604,3
-100,'100','Baho - Lycée Bon Secours / Marillac','',48625,3
-101,'101','Baho - Collège Le Riberal','',48626,3
-103,'103','Baixas - Collège Joffre','',48628,3
-104,'104','Baixas - Collège Le Riberal','',48629,3
-105,'105','Baixas - Collège Le Riberal','',48630,3
-107,'107','Bompas - Lycée Lurcat / Coll Camus','',48632,3
-108,'108','Bompas - St-Louis-De-Gonzague','',48633,3
-109,'109','Bompas - Collège Côte Radieuse','',48634,3
-110,'110','Bompas - Collège Mermoz','',48656,3
-111,'111','Cabestany - Lycée Lurcat / Coll Camus','',48657,3
-112,'112','Saleilles - Lycée Lurcat / Coll Camus','',48658,3
-113,'113','Loge De Mer - Canet','',48659,3
-114,'114','Canet - Collège Côte Radieuse','',48660,3
-115,'115','Canet - Collège Côte Radieuse','',48661,3
-116,'116','Canet - Collège Casals','',48662,3
-117,'117','Canohès - Gare Routière','',48663,3
-118,'118','Pollestres - Collège Maintenon','',48664,3
-119,'119','Nyls - Collège Francois Mitterrand','',48665,3
-120,'120','Espira-De-L''Agly - Collège Joliot-Curie','',48687,3
-122,'122','Espira-De-L''Agly - Collège Joffre','',48689,3
-123,'123','Estagel - Gare Routière','',48690,3
-125,'125','Estagel - Lycée Lurcat / Coll Camus','',48692,3
-126,'126','Barcarès - Gare Routière','',48693,3
-127,'127','Barcarès - Lycée Lurcat / Coll Camus','',48694,3
-128,'128','Barcarès - Loge De Mer','',48695,3
-129,'129','Barcarès - LEPA CFA Simon (Lycée Agricole)','',48696,3
-130,'130','Barcarès - Collège Mermoz','',48718,3
-131,'131','Barcarès - Collège Mermoz','',48719,3
-132,'132','Barcarès - Collège Mermoz','',48720,3
-133,'133','Soler - Gare Routière','',48721,3
-134,'134','Soler - Lycée Bon Secours / Marillac','',48722,3
-135,'135','St-Féliu-D''Avall - Lycée Bon Secours','',48723,3
-137,'137','Soler - Collège Verne','',48725,3
-138,'138','Soler - Collège Le Riberal','',48726,3
-139,'139','Llupia - Lycée Francois Arago','',48727,3
-140,'140','Pézilla-La-Rivière - Gare Routière','',48749,3
-141,'141','Pézilla-La-Rivière - Lycée Maillol','',48750,3
-142,'142','Pézilla-La-Rivière - Lycée Maillol','',48751,3
-143,'143','Pézilla-La-Rivière - Collège VERNE','',48752,3
-144,'144','Pézilla-La-Rivière - Collège VERNE','',48753,3
-145,'145','Villeneuve-La-Rivière - Collège VERNE','',48754,3
-146,'146','Pézilla-La-Rivière - Collège VERNE','',48755,3
-148,'148','Pollestres - Lycée Francois Arago','',48757,3
-149,'149','Canohès - Collège Maintenon','',48758,3
-150,'150','Llupia - Lycée Pablo Picasso','',48780,3
-152,'152','Pollestres - Collège Francois Mitterrand','',48782,3
-154,'154','Soler - Gare Routière','',48784,3
-155,'155','Canohès - Collège Francois Mitterrand','',48785,3
-157,'157','Ponteilla - Lycée Francois Arago','',48787,3
-158,'158','Ponteilla - Collège Pompeu Fabra','',48788,3
-159,'159','Loge De Mer - St-Laurent-De-La-Salanque','',48789,3
-161,'161','Rivesaltes - Lycée Lurcat / Coll Camus','',48812,3
-162,'162','Rivesaltes - Lycée Maillol','',48813,3
-163,'163','Rivesaltes - Lycée Maillol','',48814,3
-164,'164','Saleilles - Gare Routière','',48815,3
-165,'165','Saleilles - Lycée Lurcat / Coll Camus','',48816,3
-167,'167','Saleilles - Collège Casals','',48818,3
-168,'168','Saleilles - Collège Casals','',48819,3
-169,'169','Saleilles - Collège Casals','',48820,3
-170,'170','Loge De Mer - St-Laurent-De-La-Salanque','',48842,3
-171,'171','Perpignan Catalunya - Collège Sevigne','',48843,3
-172,'172','Perpignan Pascot - Collège Sevigne','',48844,3
-173,'173','Pollestres - Collège Sevigne','',48845,3
-174,'174','St-Estève - Lycée Maillol','',48846,3
-175,'175','St-Estève - Collège N-D Des Anges','',48847,3
-176,'176','St-Estève - Lycée Bon Secours / Marillac','',48848,3
-177,'177','Baho - Lycée Maillol','',48849,3
-178,'178','St-Estève - Lycée Maillol','',48850,3
-179,'179','Bressola Del Monestir - Collège Pompeu Fabra','',48851,3
-180,'180','St-Féliu-D''Avall - Gare Routière','',48873,3
-181,'181','St-Hippolyte - Lycée Lurcat / Coll Camus','',48874,3
-182,'182','St-Hippolyte - Loge De Mer','',48875,3
-183,'183','St-Hippolyte - Collège Mermoz','',48876,3
-184,'184','St-Hippolyte - Collège Mermoz','',48877,3
-185,'185','St-Laurent-De-La-Salanque - Gare Routière','',48878,3
-186,'186','St-Laurent-De-La-Salanque - Sacré Coeur','',48879,3
-187,'187','St-Laurent-De-La-Salanque - Sacré Coeur','',48880,3
-188,'188','St-Laurent-De-La-Salanque - Loge De Mer','',48881,3
-189,'189','St-Laurent-De-La-Salanque - Loge De Mer','',48882,3
-190,'190','St-Nazaire - Collège Côte Radieuse','',48904,3
-191,'191','St-Nazaire - Collège Côte Radieuse','',48905,3
-192,'192','St-Nazaire - Collège Joffre','',48906,3
-193,'193','Ste-Marie - Lycée Lurcat / Coll Camus','',48907,3
-194,'194','Ste-Marie - St-Louis-De-Gonzague','',48908,3
-195,'195','St-Laurent-De-La-Salanque - Loge De Mer','',48909,3
-196,'196','Villelongue-De-La-Salanque - Collège Côte Radieuse','',48910,3
-197,'197','Ste-Marie - Collège Côte Radieuse','',48911,3
-198,'198','Ste-Marie - Collège Côte Radieuse','',48912,3
-200,'200','Torreilles - Loge De Mer','',49586,3
-201,'201','Torreilles - Collège Mermoz','',49587,3
-202,'202','Torreilles - Collège Mermoz','',49588,3
-203,'203','Villelongue-De-La-Salanque - Loge De Mer','',49589,3
-204,'204','Villelongue-De-La-Salanque - Collège Côte Radieuse','',49590,3
-205,'205','Villeneuve De La Raho - Gare Routière','',49591,3
-206,'206','Villeneuve De La Raho - Lycée Pablo Picasso','',49592,3
-207,'207','Villeneuve De La Raho - Collège Maintenon','',49593,3
-208,'208','Loge De Mer - Torreilles','',49594,3
-209,'209','Villeneuve De La Raho - Jean Moulin','',49595,3
-210,'210','Pollestres - Collège Maintenon','',49617,3
-211,'211','Soler - Pyrénées','',49618,3
-212,'212','LEPA CFA Simon (Lycée Agricole) - Vingrau','',49619,3
-213,'213','Vingrau - Collège Joffre','',49620,3
-214,'214','Collège N-D Des Anges - Vingrau','',49621,3
-215,'215','Vingrau - Collège Joliot-Curie','',49622,3
-216,'216','Opoul - Collège N-D Des Anges','',49623,3
-217,'217','Cabestany - Collège Maintenon','',49624,3
-218,'218','Bressola Haut Vernet - Canet La Bressola','',49625,3
-219,'219','Bois Des Pins - Collège Sevigne','',49626,3
-220,'220','Cabestany-Saleilles-St Nazaire <> Rosa Luxemburg','',49648,3
-301,'301','Mercader <> Parc Des Sports','',50548,3
-309,'309','Villeneuve De La Raho - Jean Moulin','',50556,3
-505,'505','Gare Routière - CFA Tecnosud','',52474,3
-506,'506','Gare Routière - Lycée Lurcat / Coll Camus / Picass','',52475,3
-507,'507','Gare Routière - Lycée Pablo Picasso','',52476,3
-509,'509','Gare Routière - Loge De Mer','',52478,3
-510,'510','Gare Routière - Collège Casals','',52500,3
-514,'514','Gare Routière - Lycée Bon Secours / Marillac','',52504,3
-515,'515','Gare Routière - Collège Maintenon','',52505,3
-517,'517','Gare Routière - Lycée St-Louis De Gonzague','',52507,3
-518,'518','Gare Routière - Lycée Maillol','',52508,3
-519,'519','Gare Routière - Lycée Maillol','',52509,3
-520,'520','Gare Routière - Collège N-D Des Anges','',52531,3
-521,'521','Gare Routière - LEPA CFA Simon (Lycée Agricole)','',52532,3
-522,'522','Gare Routière - Lycée Bon Secours / Marillac','',52533,3
 1000,'A','Languedoc <> Parc Des Sports > Tecnosud 2','d71016',65,3
 2000,'B','Roseraie <> Cité St-Assiscle','414d9c',66,3
 3000,'C','Sankeo <> Flandres Dunkerque','329937',67,3
@@ -153,27 +29,10 @@
 9005,'NITB','Cité Universitaire <> Castillet','232259',2396521,3
 9006,'NCAN','Canet Sud <> Vert Vallon','1887c9',2390178,3
 9007,'NPTB','P''Tit Bus','e6007e',2403248,3
-9009,'NWIL','Lycée Pablo Picasso - Gare Routière','',2409644,3
 9013,'NCSU','Navette Cimetière Sud','a06a1a',2390743,3
-20001,'2P1','Ecole Leon Blum - Perpignan','',50579,3
-80001,'8P1','Ecole Ludovic Masse - Perpignan','',56345,3
-90001,'9P1','Ecole Vingrau - Tautavel Rpi','',57306,3
-100002,'10P2','Ecole Jean Moulin - Le Barcares','',1508417,3
-100004,'10P4','Ecole Jean Moulin - Le Barcares','',1508419,3
-120001,'12P1','Ecole Charles Perrault Et Jules Verne - Torreilles','',1510338,3
-170001,'17P1','Ecole De Latour De France','',1515143,3
-170002,'17P2','Ecole De Latour De France Et Estagel','',1515144,3
-200001,'20P1','Ecoles Nyls Et Ponteilla','',1538207,3
-200002,'20P2','Ecoles Nyls Et Ponteilla','',1538208,3
-230001,'23P1','Ecole Blaise Pascal - Perpignan','',1541090,3
 290003,'3EX','Canet <> Catalogne','e37f08',51238,3
 290004,'4EX','Canohès <> Toulouges <> Catalogne','faca00',52199,3
 290005,'5EX','Ste-Marie <> Villelongue <> Catalogne','65a6db',53160,3
 290006,'6EX','Baixas <> Peyrestortes <> Catalogne','006633',54121,3
 290009,'9EX','Espira De L''Agly <> Rivesaltes <> Gare Routière','672d87',57004,3
 290012,'12EX','Torreilles <> Bompas <> Catalogne','8ec479',1510036,3
-300011,'3P11','Ecole Les Myosotis Et Jean Mermoz - Canet','',1597789,3
-300022,'3P22','Ecole Les Myosotis Et Jean Mermoz - Canet','',1597821,3
-300033,'3P33','Ecole Pierre Et Marie Curie Et Paquerette - Canet','',1597853,3
-500011,'5P11','Ecole Jules Ferry - Ste Marie','',1657371,3
-500022,'5P22','Ecole Charles Perrault - Ste Marie','',1657403,3

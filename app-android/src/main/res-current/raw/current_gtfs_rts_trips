@@ -21,7 +21,7 @@
 1100,0,'Gare TGV',11
 1101,0,'St Laurent De La Slque',11
 1501,0,'Castillet',15
-1500,0,'Pollestres Europe',15
+1500,0,'Pollestres',15
 1600,0,'Languedoc',16
 1601,0,'Rivesaltes Cap Roussillon',16
 1701,0,'Cassagnes',17
@@ -44,218 +44,6 @@
 2501,0,'Catalogne (Jeantet Violet)',25
 2600,0,'Chefdebien',26
 2601,0,'Lycée Maillol',26
-10000,0,'Baho - Lycée Bon Secours / Marillac',100
-10101,0,'Après-Midi',101
-10100,0,'Matin',101
-10301,0,'Après-Midi',103
-10300,0,'Matin',103
-10401,0,'Après-Midi',104
-10400,0,'Matin',104
-10501,0,'Après-Midi',105
-10500,0,'Matin',105
-10701,0,'Après-Midi',107
-10700,0,'Matin',107
-10801,0,'Après-Midi',108
-10800,0,'Matin',108
-10901,0,'Après-Midi',109
-10900,0,'Matin',109
-11001,0,'Bompas - Platanium',110
-11000,0,'Collège Jean Mermoz',110
-11101,0,'Après-Midi',111
-11100,0,'Matin',111
-11201,0,'Cabestany',112
-11200,0,'Lycée Lurcat / Coll CMatinus',112
-11301,0,'Loge De Mer - Canet',113
-11401,0,'Après-Midi',114
-11400,0,'Matin',114
-11501,0,'Après-Midi',115
-11500,0,'Matin',115
-11601,0,'Après-Midi',116
-11600,0,'Matin',116
-11700,0,'Canohès - Gare Routière',117
-11801,0,'Après-Midi',118
-11800,0,'Matin',118
-11901,0,'Nyls - Collège Francois Mitterrand',119
-12000,0,'Collège Irene Joliot-Curie',120
-12001,0,'Espira-De-L''Agly - Cave',120
-12201,0,'Après-Midi',122
-12200,0,'Matin',122
-12301,0,'Après-Midi',123
-12300,0,'Matin',123
-12501,0,'Après-Midi',125
-12500,0,'Matin',125
-12601,0,'Après-Midi',126
-12600,0,'Matin',126
-12701,0,'Après-Midi',127
-12700,0,'Matin',127
-12801,0,'Après-Midi',128
-12800,0,'Matin',128
-12901,0,'Après-Midi',129
-12900,0,'Matin',129
-13001,0,'Après-Midi',130
-13000,0,'Matin',130
-13101,0,'Barcarès',131
-13100,0,'Collège Jean Mermoz',131
-13200,0,'Barcarès - Collège Mermoz',132
-13300,0,'Soler - Gare Routière',133
-13401,0,'Après-Midi',134
-13400,0,'Matin',134
-13500,0,'Bon Secours',135
-13501,0,'Castelnou',135
-13700,0,'Collège Jules Verne',137
-13701,0,'Meravelles',137
-13801,0,'Après-Midi',138
-13800,0,'Matin',138
-13901,0,'Après-Midi',139
-13900,0,'Matin',139
-14000,0,'Pézilla-La-Riv - Gare Routière',140
-14101,0,'Après-Midi',141
-14100,0,'Matin',141
-14201,0,'Après-Midi',142
-14200,0,'Matin',142
-14301,0,'Après-Midi',143
-14300,0,'Matin',143
-14401,0,'Après-Midi',144
-14400,0,'Matin',144
-14501,0,'Après-Midi',145
-14500,0,'Matin',145
-14600,0,'Pézilla-La-Riv - Collège Verne',146
-14801,0,'Après-Midi',148
-14800,0,'Matin',148
-14901,0,'Après-Midi',149
-14900,0,'Matin',149
-15001,0,'Après-Midi',150
-15000,0,'Matin',150
-15201,0,'Après-Midi',152
-15200,0,'Matin',152
-15400,0,'Soler - Gare Routière',154
-15501,0,'Après-Midi',155
-15500,0,'Matin',155
-15700,0,'Ponteilla - Lycée Francois Arago',157
-15800,0,'Collège Pompeu Fabra - La Bressola',158
-15801,0,'Nyls - La Bressola',158
-15901,0,'Loge De Mer - St-Laurent-De-La-Salanque',159
-16101,0,'Après-Midi',161
-16100,0,'Matin',161
-16201,0,'Rivesaltes',162
-16200,0,'Sacré Coeur',162
-16301,0,'Rivesaltes',163
-16300,0,'Sacré Coeur',163
-16400,0,'Saleilles - Gare Routière',164
-16501,0,'Après-Midi',165
-16500,0,'Matin',165
-16701,0,'Après-Midi',167
-16700,0,'Matin',167
-16800,0,'Collège Pablo Casals',168
-16801,0,'Réart',168
-16901,0,'Après-Midi',169
-16900,0,'Matin',169
-17001,0,'Loge De Mer - St-Laurent-De-La-Salanque',170
-17101,0,'Après-Midi',171
-17100,0,'Matin',171
-17201,0,'Après-Midi',172
-17200,0,'Matin',172
-17301,0,'Après-Midi',173
-17300,0,'Matin',173
-17401,0,'Aloès',174
-17400,0,'Lycée Maillol - Arrêt Scolaire 2',174
-17501,0,'Après-Midi',175
-17500,0,'Matin',175
-17600,0,'St-Estève - Lycée Bon Secours / Marillac',176
-17701,0,'Après-Midi',177
-17700,0,'Matin',177
-17801,0,'Aloès',178
-17800,0,'Lycée Maillol - Arrêt Scolaire 2',178
-17901,0,'Bressola Del Monestir',179
-17900,0,'Collège Pompeu Fabra - La Bressola',179
-18000,0,'St-Féliu-D''Avall - Gare Routière',180
-18101,0,'Après-Midi',181
-18100,0,'Matin',181
-18201,0,'Après-Midi',182
-18200,0,'Matin',182
-18300,0,'Collège Jean Mermoz',183
-18301,0,'St-Hippolyte - Zone Artisanale',183
-18400,0,'Collège Jean Mermoz',184
-18401,0,'St-Hippolyte - Zone Artisanale',184
-18500,0,'St-Laurent-De-La-Salanque - Gare Routière',185
-18600,0,'Lycée St-Louis De Gonzague',186
-18601,0,'Tourre',186
-18700,0,'St-Laurent-De-La-Salanque - Sacré Coeur',187
-18801,0,'Après-Midi',188
-18800,0,'Matin',188
-18900,0,'St-Laurent-De-La-Salanque - Loge De Mer',189
-19001,0,'Après-Midi',190
-19000,0,'Matin',190
-19101,0,'Après-Midi',191
-19100,0,'Matin',191
-19201,0,'Après-Midi',192
-19200,0,'Matin',192
-19301,0,'Après-Midi',193
-19300,0,'Matin',193
-19401,0,'Après-Midi',194
-19400,0,'Matin',194
-19500,0,'St-Laurent-De-La-Salanque - Loge De Mer',195
-19600,0,'Villelongue-De-La-Salanque - Collège Côte Radieuse',196
-19701,0,'Après-Midi',197
-19700,0,'Matin',197
-19801,0,'Après-Midi',198
-19800,0,'Matin',198
-20000,0,'Torreilles - Loge De Mer',200
-20100,0,'Collège Jean Mermoz',201
-20101,0,'Torreilles Plage',201
-20200,0,'Torreilles - Collège Mermoz',202
-20301,0,'Après-Midi',203
-20300,0,'Matin',203
-20401,0,'Après-Midi',204
-20400,0,'Matin',204
-20501,0,'Villeneuve De La Raho - Gare Routière',205
-20601,0,'Après-Midi',206
-20600,0,'Matin',206
-20701,0,'Après-Midi',207
-20700,0,'Matin',207
-20801,0,'Loge De Mer - Torreilles',208
-20900,0,'Collège Jean Moulin',209
-20901,0,'Gaulle',209
-21001,0,'Après-Midi',210
-21000,0,'Matin',210
-21100,0,'Soler - Pyrénées',211
-21201,0,'LEPA CFA Simon (Lycée Agricole) - Vingrau',212
-21301,0,'Après-Midi',213
-21300,0,'Matin',213
-21401,0,'Collège N-D Des Anges - Vingrau',214
-21500,0,'Collège Irene Joliot-Curie',215
-21501,0,'Pas De L''Échelle',215
-21601,0,'Après-Midi',216
-21600,0,'Matin',216
-21701,0,'Après-Midi',217
-21700,0,'Matin',217
-21800,0,'Bressola Haut Vernet - Canet La Bressola',218
-21900,0,'Bois Des Pins - Collège Sevigne',219
-22001,0,'Après-Midi',220
-22000,0,'Matin',220
-30101,0,'Mercader',301
-30100,0,'Parc Des Sports',301
-30901,0,'Après-Midi',309
-30900,0,'Matin',309
-50501,0,'Après-Midi',505
-50500,0,'Matin',505
-50601,0,'Après-Midi',506
-50600,0,'Matin',506
-50701,0,'Après-Midi',507
-50700,0,'Matin',507
-50901,0,'Après-Midi',509
-50900,0,'Matin',509
-51001,0,'Après-Midi',510
-51000,0,'Matin',510
-51401,0,'Gare Routière - Lycée Bon Secours / Marillac',514
-51500,0,'Gare Routière - Collège Maintenon',515
-51701,0,'Gare Routière - Lycée St-Louis De Gonzague',517
-51801,0,'Gare Routière - Lycée Maillol',518
-51900,0,'Gare Routière - Lycée Maillol',519
-52001,0,'Après-Midi',520
-52000,0,'Matin',520
-52101,0,'Gare Routière - LEPA CFA Simon (Lycée Agricole)',521
-52201,0,'Gare Routière - Lycée Bon Secours / Marillac',522
 100001,0,'Languedoc',1000
 100000,0,'Tecnosud 2',1000
 200000,0,'Cité St-Assiscle',2000
@@ -271,30 +59,8 @@
 900601,0,'Canet''On Canet Sud',9006
 900600,0,'Canet''On Vert Vallon',9006
 900700,0,'P''Tit Bus',9007
-900901,0,'Lycée Pablo Picasso - Gare Routière',9009
 901301,0,'Castillet 1',9013
 901300,0,'Cimetière Sud',9013
-2000101,0,'Nouveau Logis',20001
-2000100,0,'Nouveau Logis',20001
-8000101,0,'Après-Midi',80001
-8000100,0,'Matin',80001
-9000101,0,'Ecole De Vingrau',90001
-9000100,0,'Palais Des Congrès',90001
-10000200,0,'Ecole Jean Moulin',100002
-10000201,0,'Ecole Jean Moulin',100002
-10000401,0,'Ecole Jean Moulin',100004
-10000400,0,'Ecole Jean Moulin',100004
-12000101,0,'Après-Midi',120001
-12000100,0,'Matin',120001
-17000101,0,'Ecole De Latour De France',170001
-17000201,0,'Après-Midi',170002
-17000200,0,'Matin',170002
-20000101,0,'Après-Midi',200001
-20000100,0,'Matin',200001
-20000201,0,'Après-Midi',200002
-20000200,0,'Matin',200002
-23000101,0,'Après-Midi',230001
-23000100,0,'Matin',230001
 29000301,0,'Canet Plage',290003
 29000300,0,'Catalogne (Jeantet Violet)',290003
 29000400,0,'Canohes Caratg',290004
@@ -307,13 +73,3 @@
 29000901,0,'Espire-De-L''Agly',290009
 29001200,0,'Catalogne (Jeantet Violet)',290012
 29001201,0,'Torreilles Plage',290012
-30001101,0,'Après-Midi',300011
-30001100,0,'Matin',300011
-30002201,0,'Après-Midi',300022
-30002200,0,'Matin',300022
-30003301,0,'Après-Midi',300033
-30003300,0,'Matin',300033
-50001101,0,'Ecole Jules Ferry',500011
-50001100,0,'Ecole Jules Ferry',500011
-50002201,0,'Ecole Charles Perrault',500022
-50002200,0,'Ecole Charles Perrault',500022
