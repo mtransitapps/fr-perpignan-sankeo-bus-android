@@ -44,14 +44,6 @@
 2501,0,'Catalogne (Jeantet Violet)',25
 2600,0,'Chefdebien',26
 2601,0,'Lycée Maillol',26
-100001,0,'Languedoc',1000
-100000,0,'Tecnosud 2',1000
-200000,0,'Cité St-Assiscle',2000
-200001,0,'Roseraie',2000
-300000,0,'Flandres Dunkerque',3000
-300001,0,'Sankéo',3000
-400000,0,'Baillat / Tourné',4000
-400001,0,'Bas Vernet 4',4000
 900300,0,'Jean Moulin',9003
 900301,0,'Parking Universitaire',9003
 900501,0,'Nit''Bus - Castillet',9005
@@ -61,6 +53,14 @@
 900700,0,'P''Tit Bus',9007
 901301,0,'Castillet 1',9013
 901300,0,'Cimetière Sud',9013
+1000001,0,'Languedoc',10000
+1000000,0,'Tecnosud 2',10000
+2000000,0,'Cité St-Assiscle',20000
+2000001,0,'Roseraie',20000
+3000000,0,'Flandres Dunkerque',30000
+3000001,0,'Sankéo',30000
+4000000,0,'Baillat / Tourné',40000
+4000001,0,'Bas Vernet 4',40000
 29000301,0,'Canet Plage',290003
 29000300,0,'Catalogne (Jeantet Violet)',290003
 29000400,0,'Canohes Caratg',290004

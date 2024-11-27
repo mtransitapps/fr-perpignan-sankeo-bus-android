@@ -21,15 +21,15 @@
 24,'24','Lunette <> Parc Des Sports <> Picasso / Massilia','15a565',1602,3
 25,'25','Catalogne <> Bois Des Pins','943471',1603,3
 26,'26','Lycée Maillol <> Chefdebien','15a565',1604,3
-1000,'A','Languedoc <> Parc Des Sports > Tecnosud 2','d71016',65,3
-2000,'B','Roseraie <> Cité St-Assiscle','414d9c',66,3
-3000,'C','Sankeo <> Flandres Dunkerque','329937',67,3
-4000,'D','Bas Vernet <> Baillat / Tourné','ed7402',68,3
 9003,'NCMI','Parking Universitaire <> Campus Mailly','fab200',2390545,3
 9005,'NITB','Cité Universitaire <> Castillet','232259',2396521,3
 9006,'NCAN','Canet Sud <> Vert Vallon','1887c9',2390178,3
 9007,'NPTB','P''Tit Bus','e6007e',2403248,3
 9013,'NCSU','Navette Cimetière Sud','a06a1a',2390743,3
+10000,'A','Languedoc <> Parc Des Sports > Tecnosud 2','d71016',65,3
+20000,'B','Roseraie <> Cité St-Assiscle','414d9c',66,3
+30000,'C','Sankeo <> Flandres Dunkerque','329937',67,3
+40000,'D','Bas Vernet <> Baillat / Tourné','ed7402',68,3
 290003,'3EX','Canet <> Catalogne','e37f08',51238,3
 290004,'4EX','Canohès <> Toulouges <> Catalogne','faca00',52199,3
 290005,'5EX','Ste-Marie <> Villelongue <> Catalogne','65a6db',53160,3
