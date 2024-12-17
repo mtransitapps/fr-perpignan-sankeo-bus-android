@@ -34,7 +34,7 @@
 2000,0,'Llupia Mimosas',20
 2100,0,'Gare TGV',21
 2101,0,'Rivesaltes Espace Méditerranée',21
-2200,0,'Gare Routière Méditerranée / Lurçat',22
+2200,0,'Gare Routière Méditerranée',22
 2201,0,'St-Nazaire Era',22
 2300,0,'Canohes Caratg',23
 2301,0,'Gare Routière Méditerranée',23
@@ -46,8 +46,6 @@
 2601,0,'Lycée Maillol',26
 900300,0,'Jean Moulin',9003
 900301,0,'Parking Universitaire',9003
-900501,0,'Nit''Bus - Castillet',9005
-900500,0,'Nit''Bus - Cité Universitaire',9005
 900601,0,'Canet''On Canet Sud',9006
 900600,0,'Canet''On Vert Vallon',9006
 900700,0,'P''Tit Bus',9007
