@@ -1,0 +1,33 @@
+1,'1','St-Féliu D''Avall <> Le Soler <> Orfila / Roseraie','86569e',49,3
+2,'2','Corneilla / St-Estève <> Saleilles / Villeneuve-Raho','53c4f1',50,3
+3,'3','Canet Sud <> Gare TGV','e37f08',51,3
+4,'4','Caratg <> Canohès <> Bompas <> Torreilles Plage','faca00',52,3
+5,'5','Ste-Marie Plage <> Bompas <> Gare TGV','65a6db',53,3
+6,'6','Baixas <> Aéroport <> Gare TGV','006633',54,3
+7,'7','Diderot <> Parc Des Sports','d0aad0',55,3
+8,'8','Cabestany <> Catalogne','ea5284',56,3
+9,'9','Vingrau <> Languedoc <> Gare Routière','672d87',57,3
+10,'10','Barcarès <> Languedoc <> Gare TGV','6ea2d7',1567,3
+11,'11','St-Laurent-De-La-Salanque <> Gare TGV','8ec479',1568,3
+15,'15','Castillet <> Pollestres','8ec479',1572,3
+16,'16','Cap Roussillon <> Rivesaltes <> Languedoc','d0aad0',1573,3
+17,'17','Cassagnes <> Estagel','53c4f1',1574,3
+18,'18','Baixas <> Calce','9bc31b',1575,3
+19,'19','Opoul <> Rivesaltes <> Gare Routière','ee7103',1576,3
+20,'20','Gare Routière <> Llupia','15a565',1598,3
+21,'21','Rivesaltes <> Espace Entreprises <> Gare TGV','15a565',1599,3
+22,'22','Canet Plage <> St-Nazaire <> Massilia','15a565',1600,3
+25,'25','Catalogne <> Bois Des Pins','943471',1603,3
+26,'26','Lycée Maillol <> Chefdebien','15a565',1604,3
+9006,'NCAN','Canet Sud <> Vert Vallon','1887c9',2390178,3
+9010,'NRAY','Navette Les Rayonnantes','e6b33e',2404604,3
+9011,'NDEC','Navette Découverte','fc7a00',2391252,3
+9012,'NINT','Navette Inter-Plages','d85d68',2396353,3
+9013,'NCSU','Navette Cimetière Sud','a06a1a',2390743,3
+9015,'NCDV','Navette Coeur De Ville','e6007e',2390279,3
+10000,'A','Languedoc <> Parc Des Sports > Tecnosud 2','d71016',65,3
+20000,'B','Roseraie <> Cité St-Assiscle','414d9c',66,3
+30000,'C','Sankeo <> Flandres Dunkerque','329937',67,3
+40000,'D','Bas Vernet <> Baillat / Tourné','ed7402',68,3
+290010,'10EX','Barcarès <> Gare LiO','6ea2d7',1508114,3
+290012,'12EX','Torreilles <> Bompas <> Catalogne','8ec479',1510036,3
