@@ -3,7 +3,7 @@
     <integer name="twitter_db_version">5</integer>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="twitter_screen_names">
-        <item>SANKEOtrafic</item><!-- RSS available, beta only -->
+        <!-- <item>SANKEOtrafic</item>--><!-- last post 2022 -->
     </string-array>
     <string-array name="twitter_screen_names_id">
         <item>1074397922</item>
