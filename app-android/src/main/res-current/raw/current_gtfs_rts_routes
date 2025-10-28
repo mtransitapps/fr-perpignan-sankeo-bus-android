@@ -11,18 +11,9 @@
 11,'11','St-Laurent-De-La-Salanque <> Gare TGV','8EC479',1568,3
 15,'15','Castillet <> Pollestres','8EC479',1572,3
 16,'16','Cap Roussillon <> Rivesaltes <> Languedoc','D0AAD0',1573,3
-17,'17','Cassagnes <> Estagel','53C4F1',1574,3
-18,'18','Baixas <> Calce','9BC31B',1575,3
-19,'19','Opoul <> Rivesaltes <> Gare Routière','EE7103',1576,3
-20,'20','Gare Routière <> Llupia','15A565',1598,3
 21,'21','Rivesaltes <> Espace Entreprises <> Gare TGV','15A565',1599,3
-22,'22','Canet Plage <> St-Nazaire <> Massilia','15A565',1600,3
-23,'23','Gare Routière <> Canohès','15A565',1601,3
-24,'24','Lunette <> Parc Des Sports <> Picasso / Massilia','15A565',1602,3
 25,'25','Catalogne <> Bois Des Pins','943471',1603,3
 26,'26','Lycée Maillol <> Chefdebien','15A565',1604,3
-9003,'NCMI','Parking Universitaire <> Campus Mailly','FAB200',2390545,3
-9005,'NITB','Cité Universitaire <> Castillet','232259',2396521,3
 9006,'NCAN','Canet Sud <> Vert Vallon','1887C9',2390178,3
 9013,'NCSU','Navette Cimetière Sud','A06A1A',2390743,3
 9015,'NCDV','Navette Coeur De Ville','E6007E',2390279,3
@@ -30,10 +21,5 @@
 20000,'B','Roseraie <> Cité St-Assiscle','414D9C',66,3
 30000,'C','Sankeo <> Flandres Dunkerque','329937',67,3
 40000,'D','Bas Vernet <> Baillat / Tourné','ED7402',68,3
-290002,'2EX','Corneilla <> Gare Routière','53C4F1',50277,3
-290003,'3EX','Canet <> Catalogne','E37F08',51238,3
-290004,'4EX','Canohès <> Toulouges <> Catalogne','FACA00',52199,3
 290005,'5EX','Ste-Marie <> Villelongue <> Catalogne','65A6DB',53160,3
-290006,'6EX','Baixas <> Peyrestortes <> Catalogne','006633',54121,3
-290009,'9EX','Espira De L''Agly <> Rivesaltes <> Gare Routière','672D87',57004,3
 290012,'12EX','Torreilles <> Bompas <> Catalogne','8EC479',1510036,3
