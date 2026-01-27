@@ -1,14 +1,14 @@
-'2509-HIV-25j05H-d-Dimanche-00',901,103500,,'',0,89700,,'',0
-'2509-HIV-25j26H-d-Dimanche-00',901,103500,,'',0,89700,,'',0
-'2509-HIV-25k03H-s-Samedi-00',901,83100,0,'Estagel Collège Estagel',0,19300,0,'Estagel Collège Estagel',0,12600,0,'Estagel Collège Estagel',0,19200,0,'Estagel Collège Estagel',0,36000,0,'Estagel Collège Estagel',0,10200,0,'Estagel Collège Estagel',0,13100,0,'Estagel Collège Estagel',0,8800,0,'Estagel Collège Estagel',0
-'2509-HIV-25l22Vlv-Semaine-00',901,83100,0,'Vingrau',0,12700,0,'Estagel Collège Estagel',0,6500,0,'Estagel Collège Estagel',0,13000,0,'Estagel Collège Estagel',0,18300,0,'Estagel Collège Estagel',0,37400,0,'Estagel Collège Estagel',0,9500,0,'Estagel Collège Estagel',0,12500,0,'Estagel Collège Estagel',0,9300,0,'Estagel Collège Estagel',0
-'2509-HIV-26a05H-s-Samedi-00',901,83100,0,'Estagel Collège Estagel',0,19300,0,'Estagel Collège Estagel',0,12600,0,'Estagel Collège Estagel',0,19200,0,'Estagel Collège Estagel',0,36000,0,'Estagel Collège Estagel',0,10200,0,'Estagel Collège Estagel',0,13100,0,'Estagel Collège Estagel',0,8800,0,'Estagel Collège Estagel',0
-'2509-HIV-26a05H-w-Mercredi-00',901,83700,0,'Vingrau',0,17000,0,'Estagel Collège Estagel',0,9500,0,'Estagel Collège Estagel',0,9800,0,'Estagel Collège Estagel',0,12100,,'',0,12600,0,'Estagel Collège Estagel',0,11200,0,'Estagel Collège Estagel',0,14900,,'',0,10600,,'',0,9500,,'',0,11900,,'',0
-'2509-HIV-26a05Hlv-L-Ma-J-V-00',901,83700,0,'Vingrau',0,17000,0,'Estagel Collège Estagel',0,9500,0,'Estagel Collège Estagel',0,9800,0,'Estagel Collège Estagel',0,12100,,'',0,12600,0,'Estagel Collège Estagel',0,11200,0,'Estagel Collège Estagel',0,14900,,'',0,10600,,'',0,9500,,'',0,11900,,'',0
-'2509-HIV-26b23Vlv-Semaine-00',901,83100,0,'Vingrau',0,12700,0,'Estagel Collège Estagel',0,6500,0,'Estagel Collège Estagel',0,13000,0,'Estagel Collège Estagel',0,18300,0,'Estagel Collège Estagel',0,37400,0,'Estagel Collège Estagel',0,9500,0,'Estagel Collège Estagel',0,12500,0,'Estagel Collège Estagel',0,9300,0,'Estagel Collège Estagel',0
-'2509-HIV-26c02Vlv-Semaine-00',901,83100,0,'Vingrau',0,12700,0,'Estagel Collège Estagel',0,6500,0,'Estagel Collège Estagel',0,13000,0,'Estagel Collège Estagel',0,18300,0,'Estagel Collège Estagel',0,37400,0,'Estagel Collège Estagel',0,9500,0,'Estagel Collège Estagel',0,12500,0,'Estagel Collège Estagel',0,9300,0,'Estagel Collège Estagel',0
-'2509-HIV-25j05H-d-Dimanche-00',1701,104000,,'',0,89700,,'',0
-'2509-HIV-25j26H-d-Dimanche-00',1701,104000,,'',0,89700,,'',0
-'2509-HIV-26a05H-w-Mercredi-00',1701,65300,,'',0,9000,,'',0,107600,,'',0,9500,,'',0
-'2509-HIV-26a05H-w-Mercredi-00-0010000',1701,132500,,'',0
-'2509-HIV-26a05Hlv-L-Ma-J-V-00',1701,65300,,'',0,9000,,'',0,107600,,'',0,9500,,'',0
+901,'2509-HIV-25j05H-d-Dimanche-00',1035,,2786,,,0,897,,2787,,,0
+901,'2509-HIV-25j26H-d-Dimanche-00',1035,,2790,,,0,897,,2791,,,0
+901,'2509-HIV-25k03H-s-Samedi-00',831,,2794,0,9 10 9,0,193,,2799,0,9 10 9,0,126,,2800,0,9 10 9,0,192,,2801,0,9 10 9,0,360,,2795,0,9 10 9,0,102,,2796,0,9 10 9,0,131,,2797,0,9 10 9,0,88,,2798,0,9 10 9,0
+901,'2509-HIV-25l22Vlv-Semaine-00',831,,2807,0,11,0,127,,2809,0,9 10 9,0,65,,2810,0,9 10 9,0,130,,2811,0,9 10 9,0,183,,2812,0,9 10 9,0,374,,2816,0,9 10 9,0,95,,2817,0,9 10 9,0,125,,2818,0,9 10 9,0,93,,2819,0,9 10 9,0
+901,'2509-HIV-26a05H-s-Samedi-00',831,,2821,0,9 10 9,0,193,,2826,0,9 10 9,0,126,,2827,0,9 10 9,0,192,,2828,0,9 10 9,0,360,,2822,0,9 10 9,0,102,,2823,0,9 10 9,0,131,,2824,0,9 10 9,0,88,,2825,0,9 10 9,0
+901,'2509-HIV-26a05H-w-Mercredi-00',837,,2834,0,11,0,170,,2840,0,9 10 9,0,95,,2844,0,9 10 9,0,98,,2841,0,9 10 9,0,121,,2845,,,0,126,,2842,0,9 10 9,0,112,,2843,0,9 10 9,0,149,,2848,,,0,106,,2846,,,0,95,,2847,,,0,119,,2849,,,0
+901,'2509-HIV-26a05Hlv-L-Ma-J-V-00',837,,2850,0,11,0,170,,2856,0,9 10 9,0,95,,2860,0,9 10 9,0,98,,2857,0,9 10 9,0,121,,2861,,,0,126,,2858,0,9 10 9,0,112,,2859,0,9 10 9,0,149,,2864,,,0,106,,2862,,,0,95,,2863,,,0,119,,2865,,,0
+901,'2509-HIV-26b23Vlv-Semaine-00',831,,2866,0,11,0,127,,2868,0,9 10 9,0,65,,2869,0,9 10 9,0,130,,2870,0,9 10 9,0,183,,2871,0,9 10 9,0,374,,2875,0,9 10 9,0,95,,2876,0,9 10 9,0,125,,2877,0,9 10 9,0,93,,2878,0,9 10 9,0
+901,'2509-HIV-26c02Vlv-Semaine-00',831,,2880,0,11,0,127,,2882,0,9 10 9,0,65,,2883,0,9 10 9,0,130,,2884,0,9 10 9,0,183,,2885,0,9 10 9,0,374,,2889,0,9 10 9,0,95,,2890,0,9 10 9,0,125,,2891,0,9 10 9,0,93,,2892,0,9 10 9,0
+1701,'2509-HIV-25j05H-d-Dimanche-00',1040,,3508,,,0,897,,3509,,,0
+1701,'2509-HIV-25j26H-d-Dimanche-00',1040,,3510,,,0,897,,3511,,,0
+1701,'2509-HIV-26a05H-w-Mercredi-00',653,,3512,,,0,90,,3515,,,0,1076,,3513,,,0,95,,3514,,,0
+1701,'2509-HIV-26a05H-w-Mercredi-00-0010000',1325,,3517,,,0
+1701,'2509-HIV-26a05Hlv-L-Ma-J-V-00',653,,3518,,,0,90,,3521,,,0,1076,,3519,,,0,95,,3520,,,0
