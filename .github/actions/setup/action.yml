@@ -1,3 +1,4 @@
+# ORIGINAL FILE: https://github.com/mtransitapps/commons/tree/master/shared-overwrite
 name: MT setup
 description: 'Setup workspace (git submodules/branches & gradle)'
 inputs:
@@ -27,9 +28,6 @@ runs:
           fi
           echo "[MT] > set MT_IS_AGENCY_REPO='$MT_IS_AGENCY_REPO'."
           echo "MT_IS_AGENCY_REPO=$MT_IS_AGENCY_REPO" >> $GITHUB_ENV
-
-          # MT_IS_MAIN_APP=${{ github.repository == 'mtransitapps/mtransit-for-android' }}
-          # echo "MT_IS_MAIN_APP=$MT_IS_MAIN_APP" >> $GITHUB_ENV
 
       - name: MT check out submodules
         shell: bash

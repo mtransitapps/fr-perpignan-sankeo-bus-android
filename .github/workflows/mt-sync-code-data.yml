@@ -75,25 +75,6 @@ jobs:
         with:
           code-sync: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
 
-      # - name: MT check out submodules
-      #   run: ./checkout_submodules.sh
-      # - name: MT setup MT_GIT_BRANCH env
-      #   i f: github.event_name != 'pull_request'
-      #   run: |
-      #     echo "MT_GIT_BRANCH=${GITHUB_REF##*/}" >> $GITHUB_ENV
-      # - name: MT code sync
-      #   # i f: github.event_name != 'pull_request'
-      #   i f: $ {{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
-      #   run: ./commons/code_sync.sh
-      # - name: MT code setup
-      #   run: ./commons/code_setup.sh
-      # - name: MT set up JDK 17
-      #   uses: actions/setup-java@v5
-      #   with:
-      #     distribution: 'temurin'
-      #     java-version: '17'
-      # - name: Setup Gradle
-        # uses: gradle/actions/setup-gradle@v5
       - name: MT commit code change
         if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: ./commit_code_change.sh
