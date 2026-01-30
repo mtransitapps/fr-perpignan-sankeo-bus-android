@@ -45,16 +45,21 @@ public class PerpignanSankeoBusAgencyTools extends DefaultAgencyTools {
 		return "Sankéo";
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
 	}
+
+	@Override
+    public @Nullable String getServiceIdCleanupRegex() {
+        return "^\\d{4}-\\w{3}-|(lv|-d|-s|-w)|-\\d{2}(-|$)";
+    }
+
+	@Override
+    public @Nullable String getTripIdCleanupRegex() {
+        return "\\d{4}-\\w{3}-|(lv|-d|-s|-w)|-\\d{2}(-|$)";
+    }
 
 	@Override
 	public boolean defaultRouteIdEnabled() {
