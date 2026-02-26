@@ -24,7 +24,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.regex.Pattern;
 
-// https://transport.data.gouv.fr/datasets/gtfs-sankeo
 public class PerpignanSankeoBusAgencyTools extends DefaultAgencyTools {
 
 	private static final boolean FF_USING_ROUTE_ID_DEFAULT_CONVERTER = false;
