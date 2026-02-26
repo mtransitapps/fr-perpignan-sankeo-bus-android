@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <bool name="rss_copy_to_file_instead_of_streaming">true</bool>
+    <string name="rss_encoding">ISO-8859-1</string>
+    <string-array name="rss_feeds">
+        <item>https://www.sankeo.com/module/flux_rss.php?id=1</item>
+        <item>https://www.sankeo.com/module/flux_rss.php?id=10</item>
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://www.sankeo.com/favicon-32x32.png</item>
+        <item>https://www.sankeo.com/favicon-32x32.png</item>
+    </string-array>
+    <string-array name="rss_feeds_author_name">
+        <item>Sankéo (Actualités)</item>
+        <item>Sankéo (Infos Trafic)</item>
+    </string-array>
+    <string-array name="rss_feeds_author_url">
+        <item>https://www.sankeo.com/368-Actualites.html</item>
+        <item>https://www.sankeo.com/369-Infos-trafic.html</item>
+    </string-array>
+    <string-array name="rss_feeds_label">
+        <item>www.sankeo.com</item>
+        <item>www.sankeo.com</item>
+    </string-array>
+</resources>
