@@ -1,5 +1,5 @@
 1,'1','St-Féliu D''Avall <> Orfila / Roseraie','86569E',49,3
-2,'2','Saleilles / Villeneuve De La Raho <> Cliniques / Corneilla -La-Riv','53C4F1',50,3
+2,'2','Saleilles / Villeneuve De La Raho <> Cliniques / Corneilla-La-Riv','53C4F1',50,3
 3,'3','Gare TGV <> Canet S','E37F08',51,3
 4,'4','Caratg <> Torreilles Plage','FACA00',52,3
 5,'5','Gare TGV <> Ste-Marie Plage','65A6DB',53,3
@@ -26,13 +26,13 @@
 9006,'NCAN','Canet S <> Vert Vallon','1887C9',2390178,3
 9015,'NCDV','Quai Nobel','E6007E',2390279,3
 10000,'A','Languedoc <> Tecnosud 2','D71016',65,3
-20000,'B','Cité St-Assiscl <> Roseraie','414D9C',66,3
-29002,'2ex','Gare Routière Méditerranée <> Corneilla -La-Riv','53C4F1',50277,3
-29003,'3ex','Catalogne J Violet <> Canet Plage','E37F08',51238,3
-29004,'4ex','Caratg <> Catalogne J Violet','FACA00',52199,3
-29005,'5ex','Gare TGV <> Ste-Marie Plage','65A6DB',53160,3
-29006,'6ex','Catalogne J Violet <> Templiers','006633',54121,3
-29009,'9ex','Catalogne J Violet <> Espira De L''Agly','672D87',57004,3
+20000,'B','Cité St-Assiscle <> Roseraie','414D9C',66,3
+29002,'2EX','Gare Routière Méditerranée <> Corneilla-La-Riv','53C4F1',50277,3
+29003,'3EX','Catalogne J Violet <> Canet Plage','E37F08',51238,3
+29004,'4EX','Caratg <> Catalogne J Violet','FACA00',52199,3
+29005,'5EX','Gare TGV <> Ste-Marie Plage','65A6DB',53160,3
+29006,'6EX','Catalogne J Violet <> Templiers','006633',54121,3
+29009,'9EX','Catalogne J Violet <> Espira De L''Agly','672D87',57004,3
+29012,'12EX','Catalogne J Violet <> Torreilles Plage','8EC479',1510036,3
 30000,'C','Sankéo <> Flandres Dunkerque','329937',67,3
 40000,'D','Bas Vernet 4 <> Baillat / Tourné','ED7402',68,3
-50012,'12e','Catalogne J Violet <> Torreilles Plage','8EC479',1510036,3

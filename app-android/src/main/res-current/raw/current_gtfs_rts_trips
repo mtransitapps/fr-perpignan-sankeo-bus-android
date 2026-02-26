@@ -1,6 +1,6 @@
 101,0,'Orfila / Roseraie',1
 100,0,'St-Féliu D''Avall',1
-201,0,'Cliniques / Corneilla -La-Riv',2
+201,0,'Cliniques / Corneilla-La-Riv',2
 200,0,'Saleilles / Villeneuve De La Raho',2
 301,0,'Canet S',3
 300,0,'Gare TGV',3
@@ -53,9 +53,9 @@
 901500,0,'Quai Nobel',9015
 1000001,0,'Languedoc',10000
 1000000,0,'Tecnosud 2',10000
-2000000,0,'Cité St-Assiscl',20000
+2000000,0,'Cité St-Assiscle',20000
 2000001,0,'Roseraie',20000
-2900201,0,'Corneilla -La-Riv',29002
+2900201,0,'Corneilla-La-Riv',29002
 2900200,0,'Gare Routière Méditerranée',29002
 2900301,0,'Canet Plage',29003
 2900300,0,'Catalogne J Violet',29003
@@ -67,9 +67,9 @@
 2900601,0,'Templiers',29006
 2900900,0,'Catalogne J Violet',29009
 2900901,0,'Espira De L''Agly',29009
+2901200,0,'Catalogne J Violet',29012
+2901201,0,'Torreilles Plage',29012
 3000000,0,'Flandres Dunkerque',30000
 3000001,0,'Sankéo',30000
 4000000,0,'Baillat / Tourné',40000
 4000001,0,'Bas Vernet 4',40000
-5001200,0,'Catalogne J Violet',50012
-5001201,0,'Torreilles Plage',50012

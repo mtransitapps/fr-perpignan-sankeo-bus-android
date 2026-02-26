@@ -93,7 +93,7 @@
       "route_id_part": 29000
     }
   ],
-  "use_route_long_name_for_missing_route_short_name": true,
+  "use_route_long_name_for_route_short_name": true,
   "route_long_name_remove_route_id": true,
   "default_route_long_name_enabled": true,
   "direction_finder_enabled": true,
@@ -119,6 +119,22 @@
       "is_word": true,
       "ignore_case": true,
       "replacement": "Après-Midi"
+    },
+    {
+      "regex": "corneilla\\s*-\\s*la\\s*-\\s*rivière",
+      "ignore_case": true,
+      "replacement": "Corneilla-la-Rivière"
+    },
+    {
+      "regex": "pézilla\\s*-\\s*la\\s*-\\s*rivière",
+      "ignore_case": true,
+      "replacement": "Pézilla-la-Rivière"
+    },
+    {
+      "regex": "Assiscl",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Assiscle"
     }
   ],
   "use_stop_id_hash_code": true
