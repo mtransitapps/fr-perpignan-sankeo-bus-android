@@ -1,0 +1,125 @@
+{
+  "default_route_id_enabled": true,
+  "use_route_short_name_for_route_id": true,
+  "route_short_name_to_route_id_configs": [
+    {
+      "route_short_name": "A",
+      "route_id": 1000
+    },
+    {
+      "route_short_name": "B",
+      "route_id": 2000
+    },
+    {
+      "route_short_name": "C",
+      "route_id": 3000
+    },
+    {
+      "route_short_name": "D",
+      "route_id": 4000
+    },
+    {
+      "route_short_name": "CANET",
+      "route_id": 9000
+    },
+    {
+      "route_short_name": "CANET'ON D'ETE",
+      "route_id": 9001
+    },
+    {
+      "route_short_name": "NAV RAYONNANTES",
+      "route_id": 9002
+    },
+    {
+      "route_short_name": "NCMI",
+      "route_id": 9003
+    },
+    {
+      "route_short_name": "NAV DECOUVERTE",
+      "route_id": 9004
+    },
+    {
+      "route_short_name": "NITB",
+      "route_id": 9005
+    },
+    {
+      "route_short_name": "NCAN",
+      "route_id": 9006
+    },
+    {
+      "route_short_name": "NPTB",
+      "route_id": 9007
+    },
+    {
+      "route_short_name": "P'TIT BUS",
+      "route_id": 900
+    },
+    {
+      "route_short_name": "NWIL",
+      "route_id": 9009
+    },
+    {
+      "route_short_name": "NRAY",
+      "route_id": 9010
+    },
+    {
+      "route_short_name": "NDEC",
+      "route_id": 9011
+    },
+    {
+      "route_short_name": "NINT",
+      "route_id": 9012
+    },
+    {
+      "route_short_name": "NCSU",
+      "route_id": 9013
+    },
+    {
+      "route_short_name": "NSAI",
+      "route_id": 9014
+    },
+    {
+      "route_short_name": "NCDV",
+      "route_id": 9015
+    }
+  ],
+  "route_id_next_char_configs": [
+    {
+      "char": "EXP",
+      "route_id_part": 28000
+    },
+    {
+      "char": "EX",
+      "route_id_part": 29000
+    }
+  ],
+  "use_route_long_name_for_missing_route_short_name": true,
+  "route_long_name_remove_route_id": true,
+  "default_route_long_name_enabled": true,
+  "direction_finder_enabled": true,
+  "trip_id_cleanup_regex": "\\d{4}-\\w{3}-|(lv|-d|-s|-w)|-\\d{2}(-|$)",
+  "trip_headsign_cleaners": [
+    {
+      "regex": "^(aller|retour)$",
+      "ignore_case": true
+    },
+    {
+      "regex": "^[l]\\w+ - ",
+      "ignore_case": true,
+      "regex_comment": "Start with L RSN"
+    },
+    {
+      "regex": "AM",
+      "is_word": true,
+      "ignore_case": true,
+      "replacement": "Matin"
+    },
+    {
+      "regex": "PM",
+      "is_word": true,
+      "ignore_case": true,
+      "replacement": "Après-Midi"
+    }
+  ],
+  "use_stop_id_hash_code": true
+}
