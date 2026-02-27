@@ -1,0 +1,18 @@
+{
+  "target_route_type_id": 3,
+  "default_color": "00A9CE",
+  "default_color_comment": "BLUE from website CSS",
+  "service_id_cleanup_regex": "^\\d{4}-\\w{3}-|(lv|-d|-s|-w)|-\\d{2}(-|$)",
+  "default_strings_cleaner_enabled": true,
+  "ignore_upper_case_words": [
+    "TGV",
+    "SNCF",
+    "HLM",
+    "IUT",
+    "PE",
+    "BFM",
+    "LEPA",
+    "CFA",
+    "liO"
+  ]
+}
