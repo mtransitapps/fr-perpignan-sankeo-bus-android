@@ -19,7 +19,7 @@
 22,'22','Gare Routière Méditerranée / Lurçat <> St-Nazaire Era','15A565',1600,3
 23,'23','Caratg <> Gare Routière Méditerranée','15A565',1601,3
 24,'24','Parc Sports <> Massilia','15A565',1602,3
-25,'25','Bois Des Pins <> Catalogne J Violet','943471',1603,3
+25,'25','Bois Pins <> Catalogne J Violet','943471',1603,3
 26,'26','Chefdebien <> Lycée Maillol','15A565',1604,3
 9003,'NCMI','Parking Universitaire <> Jean Moulin','FAB200',2390545,3
 9005,'NITB','Castillet <> Cité Universitaire','292929',2396521,3
@@ -27,7 +27,7 @@
 9015,'NCDV','Quai Nobel','E6007E',2390279,3
 10000,'A','Languedoc <> Tecnosud 2','D71016',65,3
 20000,'B','Cité St-Assiscle <> Roseraie','414D9C',66,3
-29002,'2EX','Gare Routière Méditerranée <> Corneilla-La-Rivière','53C4F1',50277,3
+29002,'2EX','Gare Routière Méditerranée <> Corneilla-La-Riv','53C4F1',50277,3
 29003,'3EX','Catalogne J Violet <> Canet Plage','E37F08',51238,3
 29004,'4EX','Caratg <> Catalogne J Violet','FACA00',52199,3
 29005,'5EX','Gare TGV <> Ste-Marie Plage','65A6DB',53160,3

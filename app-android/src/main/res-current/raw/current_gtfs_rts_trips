@@ -1,7 +1,7 @@
-101,0,'Orfila / Roseraie',1
+101,0,'Orfila/Roseraie',1
 100,0,'St-Féliu Avall',1
-201,0,'Cliniques / Corneilla-La-Riv',2
-200,0,'Saleilles / Villeneuve Raho',2
+201,0,'Cliniques/Corneilla-La-Riv',2
+200,0,'Saleilles/Villeneuve Raho',2
 301,0,'Canet Sud',3
 300,0,'Gare TGV',3
 400,0,'Caratg',4
@@ -34,7 +34,7 @@
 2000,0,'Llupia Mimosas',20
 2101,0,'Espace Entreprises',21
 2100,0,'Gare Routière Méditerranée',21
-2200,0,'Gare Routière Méditerranée / Lurçat',22
+2200,0,'Gare Routière Méditerranée/Lurçat',22
 2201,0,'St-Nazaire Era',22
 2300,0,'Caratg',23
 2301,0,'Gare Routière Méditerranée',23
@@ -71,5 +71,5 @@
 2901201,0,'Torreilles Plage',29012
 3000000,0,'Flandres Dunkerque',30000
 3000001,0,'Sankéo',30000
-4000000,0,'Baillat / Tourné',40000
+4000000,0,'Baillat/Tourné',40000
 4000001,0,'Bas Vernet 4',40000
