@@ -3,22 +3,35 @@
 3,'3','Gare TGV <> Canet Sud','E37F08',51,3
 4,'4','Caratg <> Torreilles Plage','FACA00',52,3
 5,'5','Gare TGV <> Ste-Marie Plage','65A6DB',53,3
-6,'6','Gare TGV <> Templiers','006633',54,3
+6,'6','Bon Secours <> Templiers','006633',54,3
 7,'7','Parc Sports <> Diderot','D0AAD0',55,3
 8,'8','Catalogne Brasserie <> Cabestany','EA5284',56,3
-9,'9','Gare Routière Méditerranée <> Vingrau','672D87',57,3
+9,'9','Gare Routière Méditerranée <> Pas Échelle','672D87',57,3
 10,'10','Gare TGV <> Le Barcarès','6EA2D7',1567,3
 11,'11','Gare TGV <> St-Laurent Salanque','8EC479',1568,3
 15,'15','Pollestres <> Castillet','8EC479',1572,3
 16,'16','Languedoc <> Cap Roussillon','D0AAD0',1573,3
+17,'17','Estagel <> Cassagnes','53C4F1',1574,3
+18,'18','Calce Village <> Ecole Baixas','9BC31B',1575,3
+19,'19','Gare Routière Méditerranée <> Opoul','EE7103',1576,3
+20,'20','Llupia Mimosas <> Gare Routière Méditerranée','15A565',1598,3
 21,'21','Gare Routière Méditerranée <> Espace Entreprises','15A565',1599,3
+22,'22','Gare Routière Méditerranée / Lurçat <> St-Nazaire Era','15A565',1600,3
+23,'23','Caratg <> Gare Routière Méditerranée','15A565',1601,3
+24,'24','Parc Sports <> Massilia','15A565',1602,3
 25,'25','Bois Pins <> Catalogne J Violet','943471',1603,3
 26,'26','Chefdebien <> Lycée Maillol','15A565',1604,3
+9003,'NCMI','Parking Universitaire <> Jean Moulin','FAB200',2390545,3
 9006,'NCAN','Canet Sud <> Vert Vallon','1887C9',2390178,3
 9015,'NCDV','Quai Nobel','E6007E',2390279,3
 10000,'A','Languedoc <> Tecnosud 2','D71016',65,3
 20000,'B','Cité St-Assiscle <> Roseraie','414D9C',66,3
+29002,'2EX','Gare Routière Méditerranée <> Corneilla-La-Riv','53C4F1',50277,3
+29003,'3EX','Catalogne J Violet <> Canet Plage','E37F08',51238,3
+29004,'4EX','Caratg <> Catalogne J Violet','FACA00',52199,3
 29005,'5EX','Gare TGV <> Ste-Marie Plage','65A6DB',53160,3
+29006,'6EX','Catalogne J Violet <> Templiers','006633',54121,3
+29009,'9EX','Catalogne J Violet <> Espira Agly','672D87',57004,3
 29012,'12EX','Catalogne J Violet <> Torreilles Plage','8EC479',1510036,3
 30000,'C','Sankéo <> Flandres Dunkerque','329937',67,3
 40000,'D','Bas Vernet 4 <> Baillat / Tourné','ED7402',68,3
