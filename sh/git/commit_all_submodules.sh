@@ -24,16 +24,16 @@ for SUBMODULE in "${SUBMODULES[@]}"; do
     echo "- '$SUBMODULE': no change.";
   else
     if [[ -z "$SUBMODULE_CURRENT_SHA" ]]; then
-      mapfile -t SUBMODULE_CHANGES < <(git -C "$SUBMODULE" log --oneline --pretty=format:"%s" HEAD);
+      mapfile -t SUBMODULE_CHANGES < <(git -C "$ROOT_DIR/$SUBMODULE" log --oneline --pretty=format:"%s" HEAD);
     else
-      mapfile -t SUBMODULE_CHANGES < <(git -C "$SUBMODULE" log --oneline --pretty=format:"%s" "$SUBMODULE_CURRENT_SHA"..HEAD);
+      mapfile -t SUBMODULE_CHANGES < <(git -C "$ROOT_DIR/$SUBMODULE" log --oneline --pretty=format:"%s" "$SUBMODULE_CURRENT_SHA"..HEAD);
     fi
     echo "- '$SUBMODULE': ${#SUBMODULE_CHANGES[@]} changes: ";
     for SUBMODULE_CHANGE in "${SUBMODULE_CHANGES[@]}"; do
       echo "  - '$SUBMODULE_CHANGE'";
       # Replace PR references (#123) with full GitHub URLs
       SUBMODULE_CHANGE_WITH_URLS=$(printf '%s' "$SUBMODULE_CHANGE" | sed -E "s|\(#([0-9]+)\)|https://github.com/mtransitapps/$SUBMODULE/pull/\1|g");
-      COMMIT_MESSAGE_BODY+=$'\n- '"$SUBMODULE: $SUBMODULE_CHANGE_WITH_URLS";
+      COMMIT_MESSAGE_BODY+="\n- $SUBMODULE: $SUBMODULE_CHANGE_WITH_URLS";
       ONE_COMMIT_MESSAGE="$COMMIT_MESSAGE_TITLE_START from '$SUBMODULE': $SUBMODULE_CHANGE_WITH_URLS";
       ((COMMITS++));
     done
@@ -52,13 +52,13 @@ if [[ "${COMMITS}" -eq 1 ]]; then
   echo "--------------------------------------------------------------------------------";
   echo -e "$ONE_COMMIT_MESSAGE";
   echo "--------------------------------------------------------------------------------";
-  printf '%s\n' "$ONE_COMMIT_MESSAGE" | git -C "$ROOT_DIR" commit -F -
+  printf '%b\n' "$ONE_COMMIT_MESSAGE" | git -C "$ROOT_DIR" commit -F -
 elif [[ "${COMMITS}" -gt 1 ]]; then
   COMMIT_MESSAGE="$COMMIT_MESSAGE_TITLE:"$'\n'"$COMMIT_MESSAGE_BODY";
   echo "--------------------------------------------------------------------------------";
   echo -e "$COMMIT_MESSAGE";
   echo "--------------------------------------------------------------------------------";
-  printf '%s\n' "$COMMIT_MESSAGE" | git -C "$ROOT_DIR" commit -F -
+  printf '%b\n' "$COMMIT_MESSAGE" | git -C "$ROOT_DIR" commit -F -
 # else # 0 commits
 # do nothing
 fi
